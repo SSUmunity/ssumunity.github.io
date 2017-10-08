@@ -198,6 +198,7 @@ tickets3Offers:
 # Footer
 socialLinks:
  - {link: "https://www.facebook.com/ssumunity", icon: "facebook"}
+ - {link: "https://github.com/ssumunity", icon: "github"}
 
 footerBlocks:
  -
