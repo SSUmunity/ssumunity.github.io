@@ -206,6 +206,7 @@ footerBlocks:
   links:
    - {link: "https://www.facebook.com/ssumunity/", text: "SSUmunity Facebook Page"}
    - {link: "https://play.google.com/store/apps/details?id=org.ssumunity.ssulite", text: "SSULite Campus App on PlayStore"}
+   - {link: "https://github.com/ssumunity", text: "SSUmunity Opensource Project"}
 
  -
   title: "Contacts"
