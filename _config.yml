@@ -7,7 +7,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 # Site Settings
 title: "SSUmunity 2017 SS Recruit"
 email: "ssumunity@gmail.com"
-description: "SSUmunity 2017 recruit"
+description: "숭실대학교 캠퍼스 라이프를 더 발전시키기위한 한 걸음, SSUmunity의 위대한 리쿠르팅"
 baseurl: "/"
 url: "http://ssumunity.github.io"
 permalink: "/blog/:title"
