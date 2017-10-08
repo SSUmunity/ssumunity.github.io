@@ -1,0 +1,27 @@
+<!-- Begin operation team tickets Section -->
+<section id="tickets" class="tickets">
+  <div class="content-wrapper">
+    <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+      <h3>{{ site.tickets3Title }}</h3>
+      {% for tickets3Offer in site.tickets3Offers %}
+      {% assign colWidth = 12 | divided_by: forloop.length %}
+      {% assign check = forloop.index | modulo:2 %}
+      <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col {% if tickets3Offer.featured != null %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
+        {% if tickets3Offer.ribbon != null %}<div class="pricing-ribbon">{{ tickets3Offer.ribbon }}</div>{% endif %}
+        <div class="pricing-header">
+          <p class="title">{{ tickets3Offer.name }}</p>
+        </div>
+        <div class="pricing-content">
+          <ul>
+            {% for listItem in tickets3Offer.ticketContentList %}
+            <li>{{ listItem }}</li>
+            {% endfor %}
+          </ul>
+          <a class="button" href="{{ tickets3Offer.buyButtonLink }}" target="_blank">{{ tickets3Offer.buyButtonText }}</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- End Tickets Section -->

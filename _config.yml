@@ -1,0 +1,314 @@
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+
+
+# Site Settings
+title: "SSUmunity 2017 SS Recruit"
+email: "ssumunity@gmail.com"
+description: "SSUmunity 2017 recruit"
+baseurl: "/recurit"
+url: "http://ssumunity.github.io"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+
+# Organizer Info
+organizerName: "SSUmunity"
+organizerAlternateName: "SSUmunity"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: "ssumunity.dev@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://lviv.gdg.org.ua/"
+
+# Head
+metaKeywords: "숭실대학교, SSUmunity, 슈뮤니티, 숭실대학교 커뮤니티, 유어슈, Soongsil University"
+twitterAccount: "@SSUmunity"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "http://bit.ly/dfua-c4p"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/team/", text: "Team"}
+
+bottomNavigationLinks:
+ - {link: "/#tickets", text: "SSUmunity 지원하기"}
+rightNavigationButtons:
+ - {link: "/recruit/#tickets", text: "SSUmunity 지원하기"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "2017 <typeout> Recruit"
+eventDate: "10/11 Wed - 10/20 Fri, 2017"
+typeoutTextValues: '"SSUmunity","슈뮤니티", "Show your energy on"'
+typeoutFallback: "SSUmunuity"
+heroButtons:
+ - {permalink: "/#tickets", text: "SSUmunity 지원하기"}
+ - {permalink: "/#about", text: "SSUmunity 알아보기"}
+
+# About Block
+aboutTitle: "About SSUmunity"
+aboutBlock:
+ - {title: "학우들의 캠퍼스 라이프 질적 증진", image: "campus_life.jpg", text: "슈뮤니티는 숭실대학교 학생들이 학교생활을 하면서 직면하는 정보의 불균형을 해소하는 것을 목표로 하고 있습니다. 학교생활을 하는데 유익한 정보들을 가공하여 공개하고 많은 학생들이 최대의 이익을 볼 수 있게 하고자 합니다. 또한 20대의 대학생 시절 그 자체를 더 즐겁게하기 위해 숭실대학교 학생들이 관심있을만한 컨텐츠들을 구상하고 제작합니다. 학교생활에 유익한 정보들과 재미있고 참신한 컨텐츠들을 담아내는 그릇으로 슈뮤니티 페이스북 페이지나 소프트웨어 개발을 활용합니다."}
+ - {title: "함께하는 것만으로 성장하는 경험", image: "grow_up.jpg", text: "슈뮤니티의 멤버들은 일반적인 대학생의 레벨에 갇혀있지 않습니다. 슈뮤니티팀이 설정한 목표롤 달성하기위해 개개인은 스스로에게 더 필요한 역량을 학습하고 매번 직면하는 문제를 해결합니다. 이런 분위기에 힘입어 슈뮤니티 신입멤버들의 성장세는 뚜렷하고, 어떻게 해야 신입 멤버들이 더 빠르고 안정적이게 성장 할 수 있을지를 고민합니다. 젊은 시절의 내가 어떻게 더 빛날지는 그 시절을 함께한 사람들이 누구냐는 것에 달려있다는 것을 아는 슈뮤니티이기에 정말 좋은 멤버들로 팀을 구성하려 노력하고 있습니다." }
+ - {title: "하고자하면 되는 환경과 프로세스", image: "process.jpg", text: "슈뮤니티는 일을 잘하는데 필요한 환경과 프로세스를 갖추고 있습니다. 학번제/기수제 같은 의미없는 서열제도가 없고, 누구나 서로를 존중하며 커뮤니케이션하고 직면하는 문제를 팀웍으로  해결합니다. 그리고 필요한 커뮤니케이션/업무 도구를 흔히 사용하는 카카오톡에 그치지 않습니다. 슈뮤니티는 선진적인 회사들에서 사용하는 Slack, Google 문서도구, Trello를 적극 이용하여 멤버들이 해야하는 일을 명확히 인지시키고, 팀 누구나 일이 진행되는 현상을 알기 쉽게하는 프로세스를 갖추고 있습니다. 여기에 더 필요한 것은 슈뮤니티에 관심을 갖고있는 당신의 열정과 관심 밖에 없습니다." }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "9000", specialCharacter: "+", info: "Facebook Like", detail: "학교생활과 관련한 팁과 정보를 제공하는 슈뮤니티 페이스북 페이지는 9000 Like 이상의 팔로워를 가지고있는 교내 공식 페이지를 제외한 최고의 영향력을 가진 페이지이자 커뮤니티입니다."}
+ - {count: "2013", specialCharacter: "", info: "Established Year", detail: "슈뮤니티는 2013년 학번별 페이스북 그룹으로 시작하여, 현재는 더 많은 학생들에게 학교생활에 필요한 정보를 전달하고 교류하게 하자는 목표로 5년간 활동해온 그룹입니다."}
+ - {count: "25", specialCharacter: "+", info: "Members Count", detail: "슈뮤니티에는 자신의 분야에서 전문성과 책임감을 갖고 활동하는 25명의 정예 멤버가 활동하고 있습니다. 이 멤버들의 자세한 소개를 보고싶다면 아래의 SSUmunity 사람들을 참고하세요."}
+
+# Latest News Block
+latestNewsTitle: "Mission of SSUmunity"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "party.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "SSUmunity 사람들"
+rockstarSpeakersButtonText: "SSUmunity의 모든 멤버 보기"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "79000"
+eventAddressCountry: "Ukraine"
+eventStartTime: "2014-10-25T10:00"
+eventDoorTime: "09:00"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "37.566189, 126.978101"
+mapCenterCoordinates: "37.566189, 126.978101"
+mapMobileCenterCoordinates: "37.566189, 126.978101"
+
+# Venue Block
+venueBlockTitle: "학우들의 더 나은 캠퍼스 라이프를 위해, 그러기 위한 팀과 자신의 성장."
+venueBigImage: "1.jpg"
+venueSmallImage1: "2.jpg"
+venueSmallImage2: "3.jpg"
+venueSmallImage3: "4.jpg"
+venueTitle: "Achievement of SSUmunity"
+venueFeatures: ["2016-2017 예비대학 행사", "Campus App SSULite 개발", "2017 상도 달밤장터 진행", "and... SSUmunity Tech Day is comming!"]
+
+# Tweets Feed Block
+tweetsFeedImage: "working.jpg"
+tweetsFeedTitle: "가 실제로 어떤 일을 하는지 알고 싶다면?"
+twitterHashTag : "SSUmunity"
+twitterFeed: "Facebook에서 숭실대학교 SSUmunity 를 검색하거나 혹은 Play store에서 SSULite 를 검색해보세요!"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "개발팀에서 리쿠르팅 중인 역할"
+ticketsInfo: ""
+ticketsOffers:
+
+ -
+  name: "iOS Developer"
+  price: ""
+  priceCurrency: "Preferred Qualifications"
+  ticketsNumber: ""
+  buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+  buyButtonText: "Apply Now"
+  ticketContentList: ["[필수조건] : Mac을 가지고 있으며, 소프트웨어 개발자를 목표로 iOS 개발을 배워보고 숭실대학교 학생들을 위한 서비스를 만들어보고 싶은 분. 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항1] : 소프트웨어 개발의 생산성을 높여주는 버전 관리, 애자일 등의 프로세스를 이용해 효율적인 개발과 팀 협업을 진행해보고 배울 의향이 있는 분.", "[우대사항2] : 디자이너와의 매끄러운 협업이 가능하고 서비스를 사용하는 유저의 입장을 생각하면서 개발을 하시는 분", "[지원 절차] : 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행"]
+  validFrom: ""
+  validThrough: ""
+
+ -
+  name: "UI Designer"
+  price: ""
+  priceCurrency: "Preferred Qualifications"
+  ticketsNumber: ""
+  buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+  buyButtonText: "Apply Now"
+  ticketContentList: ["[필수조건] : Mac을 가지고 있으며, Android, iOS 플랫폼에 적합하고 유저 친화적인 UI 디자인을 작업해주실 분. Sketch 혹은 Adobe 디자인 툴에 대한 경험은 필수. 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항1] : Google의 Material Design, Apple의 Human Interface Guidline, Facebook의 Origami Design 등 산업에서 연구하고 활용되는 UI 가이드라인을 학습하고 그것을 서비스 제품에 녹여내고자 하는 의향이 있는 분", "[우대사항2] : Balsamiq Mockup, ProtoPie, Framer 등 프로토타이핑 툴을 이용해 최근 현업에서 중요시되는 디자인 선 검증 프로세스를 배워보고 서비스에 적용해보고자 하는 의향이 있는 분.", "[지원 절차] : 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰(디자인 관련) 진행"]
+  validFrom: ""
+  validThrough: ""
+## 이부분이 하이라이팅
+  disabled: true
+  featured: true
+
+# Tickets2 Block
+tickets2Title: "컨텐츠팀에서 리쿠르팅 중인 역할"
+tickets2Info: ""
+tickets2Offers:
+
+ -
+  name: "Project Manager"
+  price: ""
+  priceCurrency: "Preferred Qualifications"
+  ticketsNumber: ""
+  buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+  buyButtonText: "Apply Now"
+  ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
+           문화,예술,정치,사회 등 다방면에 관심과 지식이 있으신 분", "[우대사항] 기획쪽으로 취직을 희망하며, 교내 혹은 대외에서 기획 관련 경험 혹은 이력이 있으신 분", "[우대사항] SNS 채널 운영 경험 혹은 SNS 컨텐츠 제작 경험이 있으신 분", "[지원절차] 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰 진행<br>"]
+  validFrom: ""
+  validThrough: ""
+
+ -
+  name: "Contents Designer"
+  price: ""
+  priceCurrency: "Preferred Qualifications"
+  ticketsNumber: ""
+  buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+  buyButtonText: "Apply Now"
+  ticketContentList: ["[필수조건] 포토샵, 일러스트 등 디자인 툴을 능숙하게 다루실 수 있으며, 디자인에 대한 이론적 이해도가 높으신 분. 컨텐츠 제작 및 디자인에 관심이 많으신 분.", "[우대사항] SNS 컨텐츠 관련 직종으로 취직을 희망하며, SNS 컨텐츠 관련한 제작 경험이 있으신 분", "[우대사항] 카드뉴스, 포스터, 로고 등의 다양한 종류의 디자인 관련 경험이 풍부하신 분", "[지원절차] 서면 인터뷰(디자인 관련 포트폴리오 1부 제출) 이후 통과된 분에 한해 대면 인터뷰 진행"]
+  validFrom: ""
+  validThrough: ""
+
+# Tickets3 Block
+tickets3Title: "운영팀에서 리쿠르팅 중인 역할"
+tickets3Info: ""
+tickets3Offers:
+
+ -
+    name: "Operator"
+    price: ""
+    priceCurrency: "Preferred Qualifications"
+    ticketsNumber: ""
+    buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+    buyButtonText: "Apply Now"
+    ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원과제] : 지원동기, 자기소개와 같은 자유로운 포트폴리오 + 증빙 서류 제출"]
+    validFrom: ""
+    validThrough: ""
+    disabled: true
+    featured: true
+
+# Footer
+socialLinks:
+ - {link: "https://www.facebook.com/ssumunity", icon: "facebook"}
+
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://www.facebook.com/ssumunity/", text: "SSUmunity Facebook Page"}
+   - {link: "https://play.google.com/store/apps/details?id=org.ssumunity.ssulite", text: "SSULite Campus App on PlayStore"}
+
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:ssumunity@gmail.com", text: "ssumunity@gmail.com"}
+   - {link: "https://www.google.co.kr/maps/place/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EC%83%81%EB%8F%84%EB%8F%99+%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90+%EC%A0%95%EB%B3%B4%EA%B3%BC%ED%95%99%EA%B4%80/@37.4944891,126.9597276,20.75z/data=!4m13!1m7!3m6!1s0x357ca1d3fe464a7f:0x49ea0f8e2421b4dd!2z7ISc7Jq47Yq567OE7IucIOyDgeuPhOuPmSDsiK3si6TrjIDtlZnqtZAg7KCV67O06rO87ZWZ6rSA!3b1!8m2!3d37.4945155!4d126.9596956!3m4!1s0x357ca1d3fe464a7f:0x49ea0f8e2421b4dd!8m2!3d37.4945155!4d126.9596956?hl=ko", text: "서울특별시 동작구 상도동 숭실대학교 정보과학관"}
+
+
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
+
+# Speakers List Block
+showSessions: true
+
+
+# Team Block
+teamBlockTitle: "SSUmunity 멤버들을 소개합니다!"
+showSessions: true
+aboutUs: "숭실대학교 학생들의 캠퍼스 라이프를 바꾸자는 목표를 갖고 행동하는 SSUmunity의 멤버들을 소개합니다. <br> SSUmunity는 운영팀, 개발팀, 컨텐츠 팀으로 나뉘어져있고, 각 팀 내에서 멤버들은 각자의 역할을 맡아 스스로 미션을 설립하고 수행하고 있습니다. 각 역할을 맡은 사람들이 어떤 사람인지, 무엇을 하고자하는지 궁금하시다면 각 멤버들을 클릭해서 살펴보세요. <br>SSUmunity에 함께하고 싶은데 내가 무엇을 해야할지 모르겠다면 기존 멤버들의 과거 경험과 현재의 역할 그리고 그 소개를 보고 선택하는 것이 꽤 도움이 될 것입니다. 그리고 각 멤버의 SNS 링크가 있으니 그를 통해 연락해보는 것도 추천합니다!"
+
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "49.056728, 3.117289"
+logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Lviv"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+directionDetailsWideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Hotels"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Registration"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Attendance Details"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Meet our themes"
+hackathonRows:
+ - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+ - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+ - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Prizes Block
+prizesTitle: "Prizes"
+prizes:
+ - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Communa"
+hackathonLocationLink: "http://communa.net.ua/"
+hackathonStreetAddress: "1 Halytska St"
+hackathonAddressLocality: "Lviv"
+hackathonAddressLocalityRegion: "Lvivska"
+hackathonPostalCode: "79000"
+hackathonAddressCountry: "Ukraine"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "49.840999, 24.031144"
+hackathonMapCenterCoordinates: "49.840696, 24.028754"
+hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"

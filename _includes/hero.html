@@ -1,0 +1,29 @@
+<!-- Begin Hero Section -->
+<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
+    {% include navigation.html %}
+    <div class="content-wrapper">
+    <div class="jumbotron">
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+            {% assign heroText = site.heroTitle | split:"<typeout>" %}
+            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+            <br>
+            <br>
+            <p style="line-height:1.5">숭실대학교 학우들의 캠퍼스 라이프를 더 즐겁게 만들기. <br>SSUmunity는 이 꿈을 당신과 함께 이루고 싶습니다.</p>
+            <br>
+            <p style="line-height:1.5">{{ site.eventDate }}</p>
+            <br>
+            <br>
+            <br>
+            {% for button in site.heroButtons %}
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            {% endfor %}
+        </div>
+    </div>
+    <a href="#about" class="explore">
+        <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
+            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
+        </svg>
+    </a>
+    </div>
+</section>
+<!-- End Hero Section -->

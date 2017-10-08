@@ -1,0 +1,346 @@
+-
+  id: 1
+  name: "구성민(Mozzi)"
+  company: "SSUmunity"
+  title: "Head of "
+  bio: "SSUmunity의 대장입니다."
+  thumbnailUrl: head_sungmin.png
+  rockstar: true
+  ribbon:
+    - {abbr: "LG전자", title: "LG전자 연구소 Intern"}
+    - {abbr: "ETRI", title: "ETRI Research Assistant"}
+    - {abbr: "대통령직속 청년위원회", title: "대통령직속 청년위원회"}
+    - {abbr: "A3", title: "A3 CEO"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ababqq"}
+
+-
+  id: 2
+  name: "오소희(Ssohe)"
+  company: "SSUmunity"
+  title: "External Cooperation Director"
+  bio: "오소희 소개"
+  thumbnailUrl: oper_sohee.png
+  rockstar: true
+  ribbon:
+    - {abbr: "숭실대학교 경영학부", title: "숭실대학교 경영학부 기획국장", url: ""}
+    - {abbr: "한국 대학생 멘토연합", title: "한국 대학생 멘토연합", url: ""}
+    - {abbr: "청년•청소년 비영리단체 꿈지락 네트워크", title: "청년•청소년 비영리단체 꿈지락 네트워크 경영지원팀", url: ""}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/sohee29"}
+-
+  id: 3
+  name: "유호성(Eddy)"
+  company: "SSUmunity"
+  title: "External Cooperator"
+  bio: "슈뮤니티의 시작부터 몸담고 있는 유호성 입니다. 같은 뜻을 가진 좋은 사람들을 만나 앞으로도 함께할 수 있어 기쁩니다. 다양한 분야에 관심이 많아 여러 활동을 하고 있습니다. 여러 분야에서 얻은 많은 경험들을 어디서든 잘 녹일 수 있는 사람이 되고자 항상 목표를 향해 나아가고 있습니다."
+  thumbnailUrl: oper_eddy.png
+  rockstar: true
+  ribbon:
+    - {abbr: "숭실대학교 국제법무학과", title: "숭실대학교 국제법무학과 기술국원", url: ""}
+    - {abbr: "숭실대학교 동아리연합회", title: "숭실대학교 동아리연합회 집행위원장, 연행예술분과장", url: ""}
+    - {abbr: "ICC Moot Court Competition", title: "ICC Moot Court Competition 2015 한국대표", url: "http://iccmoot.com/"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/edward.h.yoo"}
+
+-
+  id: 4
+  name: "박유빈(Porory)"
+  company: "SSUmunity"
+  title: "External Cooperator"
+  bio: "박유빈 소개"
+  thumbnailUrl: oper_youbin.png
+  rockstar: true
+  ribbon:
+    - {abbr: "숭실대학교 기계공학과", title: "숭실대학교 기계공학과 학생회 홍보부원", url: ""}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100006804967363"}
+
+-
+  id: 5
+  name: "전의찬(Chan-ei)"
+  company: "SSUmunity"
+  title: "Operator"
+  bio: "전의찬 소개"
+  thumbnailUrl: oper_euichan.png
+  rockstar: true
+  ribbon:
+    - {abbr: "선린인터넷고등학교 Layer7", title: "선린인터넷고등학교 보안팀 Layer7", url: ""}
+    - {abbr: "한국 IT특성화고등학교 그룹 D3S", title: "한국 IT특성화고등학교 그룹 D3S 대표", url: ""}
+    - {abbr: "소상공인을 위한 카페 플랫폼 Take it!", title: "소상공인을 위한 카페 플랫폼 Take it! 대표", url: ""}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/jeoneuichan"}
+
+-
+  id: 6
+  name: "김종찬(Ace)"
+  company: "SSUmunity"
+  title: "Technical Director"
+  bio: "SSUmunity에서 행해지는 기술적인 도전을 총괄하고 있습니다.<br>나의 기술력으로 학우들의 캠퍼스 라이프를 바꿀 때, 학교가 더 좋게 바뀐다는 믿음을 갖고 삽니다.<br>안드로이드를 9년째 개발하고 있고, 디자인과 소프트웨어 개발이 결합된 인터렉션 엔지니어링에 관심이 많습니다.<br>효율적인 협업을 지향하고 팀/개인 모두의 성장을 이뤄내는 애자일 프로세스의 신봉자입니다."
+  thumbnailUrl: dev_ace.png
+  rockstar: true
+  ribbon:
+    - {abbr: "ProtoPie", title: "ProtoPie Software Engineer Intern", url: "https://www.protopie.io"}
+    - {abbr: "NAVER", title: "NAVER Developer Relations Intern", url: "https://developers.naver.com/d2/d2campus/"}
+    - {abbr: "SW Maestro", title: "Software Maestro 4th Mentee", url: "http://www.swmaestro.kr/web/web/main.do"}
+    - {abbr: "Resume", title: "슈뮤니티 개발 대장의 간지철철 레쥬메 링크", url: "https://drive.google.com/file/d/0B8VkvNwPW06rVnRwcUw1OHd5ejA/view?usp=sharing"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ace.jckim"}
+    - {name: "github", link: "https://github.com/acious"}
+-
+  id: 7
+  name: "최윤호(Kachu)"
+  company: "SSUmunity"
+  title: "Lead of Backend"
+  thumbnailUrl: dev_yunho.png
+  bio: "슈뮤니티의 백엔드(서버)를 맡고있는 최윤호입니다. 문제해결/알고리즘에 자신이 있고, ACM 본선에 출전해본 경험이 있습니다.<br>이러한 이론적인 분야를 접목한 효율적인 슈뮤니티의 백엔드 설계와 구현을 해보는 것을 목표로 삼고있습니다."
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/choipika"}
+    - {name: "github", link: "https://github.com/choiking10"}
+#    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 8
+  name: "이상혁(Stark)"
+  company: "SSUmunity"
+  title: "Backend Engineer"
+  thumbnailUrl: dev_sanghyeok.png
+  bio: "5년차 안드로이드 개발자이며, SSUmunity에서는 Android Leader로서 2번의 릴리즈를 담당했습니다. <br>이제는 프로젝트의 근간이되는 Backend를 담당하는 Engineer로서 SSUmunity와 함께 성장할 예정입니다."
+  rockstar: true
+  ribbon:
+    - {abbr: "HyperConnect", title: "HyperConnect Android Developer Intern", url: "https://career.hpcnt.com/"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/lee.sanghyeok.94"}
+    - {name: "github", link: "https://github.com/leesanghyeok"}
+
+-
+  id: 9
+  name: "오인규(Gomjellie)"
+  company: "SSUmunity"
+  title: "Backend Engineer"
+  thumbnailUrl: dev_ingyu.png
+  bio: "이것저것 만들기를 좋아하는 백엔드 프로그래머입니다. <br>좋아하는 것과 잘하는 것은 다르다는걸 요즘 느끼고 있습니다."
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008488698005"}
+    - {name: "github", link: "https://github.com/gomjellie"}
+
+-
+  id: 10
+  name: "양기창(Jason)"
+  company: "SSUmunity"
+  title: "Android Developer"
+  thumbnailUrl: dev_kichang.png
+  bio: "현재 안드로이드 개발팀 소속이고, 안드로이드를 2년째 개발중입니다. <br>저는 안드로이드 개발을 시작할 때부터 학교에 도움이 될만한 어플을 개발하는것에 관심이 많았습니다.<br> 현재는 안드로이드 뿐만 아니라 오픈소스, 에자일 프로세스등 의 분야에도 관심을 가지고 있습니다."
+  rockstar: true
+  ribbon:
+    - {abbr: "Farerpath", title: "Farerpath Android Developer", url: "https://github.com/farerpath"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008625183805"}
+    - {name: "github", link: "https://github.com/gichang-yang"}
+
+-
+  id: 11
+  name: "김지훈(Hoon)"
+  company: "SSUmunity"
+  title: "Android Developer"
+  thumbnailUrl: dev_jihun.png
+  bio: "아이폰을 사용하고 있는 안드로이드 개발자입니다.<br>항상 이전의 나보다 성장하고자 하는 목표를 가지며 달리고 있습니다.<br>동물을 좋아합니다."
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002955521715"}
+    - {name: "github", link: "https://github.com/vagabond95"}
+
+-
+  id: 12
+  name: "박진우(Zinu)"
+  company: "SSUmunity"
+  title: "iOS Developer"
+  thumbnailUrl: dev_zinu.png
+  bio: "진우 소개"
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/jinwoo.park.161446"}
+    - {name: "github", link: "https://github.com/pacilo"}
+
+-
+  id: 13
+  name: "지건호"
+  company: "SSUmunity"
+  title: "iOS Developer"
+  thumbnailUrl: dev_gunho.png
+  bio: ""
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100006705828821"}
+
+-
+  id: 14
+  name: "신정민(Albert)"
+  company: "SSUmunity"
+  title: "Frontend Developer"
+  thumbnailUrl: dev_jungmin.png
+  bio: "프론트엔드 개발자 신정민입니다 ! <br>주 개발분야는 프론트엔드 지만, 다 해요! <br>슈뮤니티"
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/shin.jeongmin.1"}
+    - {name: "github", link: "https://github.com/tirea02"}
+
+-
+  id: 15
+  name: "유슬기(Zoey)"
+  company: "SSUmunity"
+  title: "Deep Learning Engineer"
+  thumbnailUrl: dev_seulki.png
+  bio: "2학년 말에 우연히 텐서플로우와 머신러닝을 접할 기회가 생겼습니다. 현재는 인공지능 분야의 딥러닝에 관심을 가지고 있습니다 학부생 연구실 활동을 하고 있습니다."
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100005356352767"}
+
+-
+  id: 16
+  name: "김태인(Terry)"
+  company: "SSUmunity"
+  title: "Android Dev. & UI Designer"
+  thumbnailUrl: dev_taein.png
+  bio: "태인 소개"
+  rockstar: true
+  ribbon:
+    - {abbr: "Microsoft Student Partners", title: "Microsoft Student Partners Comm.Lead", url: "https://msdn.microsoft.com/ko-kr/microsoftstudentpartners.aspx"}
+    - {abbr: "Variel Creatives", title: "Variel Creatives SW Engineer", url: "https://www.facebook.com/Variel-Creatives-403892319948580/?timeline_context_item_type=intro_card_work&timeline_context_item_source=100003183153678&pnref=lhc"}
+
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ulnamsong?ref=br_rs"}
+
+-
+  id: 17
+  name: "이기림(Limi)"
+  company: "SSUmunity"
+  title: "UX Designer"
+  bio: "이기림입니다. UX 디자이너 입니다."
+  thumbnailUrl: dev_limi.png
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/limi.klLee?fref=search"}
+
+-
+  id: 18
+  name: "박상권(Ent)"
+  company: "SSUmunity"
+  title: "Contents Director"
+  bio: "현재 컨텐츠팀 리더를 맡고 있습니다. <br>슈뮤니티를 통해 학교를 이전에 없던 새롭고 재밌는 학교로 바꾸려는 야심을 가지고 있습니다. 또한 기획자로서 다소 원대한 꿈을 가지고 앞으로 나아가고 있습니다."
+  thumbnailUrl: cont_sanggwon.png
+  rockstar: true
+  ribbon:
+    - {abbr: "휴마니타스", title: "휴마니타스 리더", url: "https://www.facebook.com/humanitas70/"}
+    - {abbr: "축제기획사 무언가", title: "축제기획사 무언가 단장", url: "https://www.facebook.com/moounga/?hc_ref=ARQH9KIeU5BqtxnCgeOQVjdUWchqOYQWf8_CCDOBEp_h3N8Z-O9_2HMHzvpfvMegfhE&fref=nf"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/sanggwon.park.9"}
+
+-
+  id: 19
+  name: "한빈나(Ellie)"
+  company: "SSUmunity"
+  bio: "저는 슈뮤니티를 통해 학생들이 공감하고, 학생들에게 도움이 될 수 있는 컨텐츠를 제작하고자 합니다. 슈뮤니티의 성장과 더불어 저 개인이 더 성장할 수 있도록 앞으로도 꾸준히 노력할 것입니다."
+  title: "Project Manager"
+  thumbnailUrl: cont_binna.png
+  rockstar: true
+  ribbon:
+    - {abbr: "경영학부", title: "경영학부 집행부", url: ""}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/binna.han.9"}
+
+-
+  id: 20
+  name: "Mingming"
+  company: "SSUmunity"
+  title: "Contents Designer"
+  bio: "슈뮤니티에서 많은것을 배우고있습니다. <br>학생들에게 더 좋은 컨텐츠를 더 좋은 디자인으로 다가갈 수 있도록 노력하겠습니다."
+  thumbnailUrl: cont_ming.png
+  rockstar: true
+  ribbon:
+    - {abbr: "SSUgaon", title: "입학사정센터 SSUgaon 멤버", url: "https://www.facebook.com/SSUGAON/"}
+    - {abbr: "시장활성화 프로젝트", title: "시장활성화 프로젝트 디자이너", url: ""}
+
+-
+  id: 21
+  name: "최현섭(Apeach)"
+  company: "SSUmunity"
+  title: "Contents Editor"
+  bio: "부족하지만 왜곡되지 않은, 있는 그대로의 모습을 담아낸 사진들로 슈뮤니티를 통해 여러분과 소통하고 싶습니다."
+  thumbnailUrl: cont_apeach.png
+  rockstar: true
+  ribbon:
+    - {abbr: "휴마니타스", title: "휴마니타스 포토그래퍼", url: "https://www.facebook.com/humanitas70/"}
+    - {abbr: "Frame", title: "사진 소모임 Frame 회장", url: ""}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/hellokimchiman"}
+
+-
+  id: 22
+  name: "이한솔(Ssol)"
+  company: "SSUmunity"
+  title: "Contents Editor"
+  bio: "슈뮤니티 컨텐츠팀 멤버이자 휴마니타스 포토그래퍼로 활동하고 있습니다. <br>에디터로서의 경험은 부족하지만 슈뮤니티와 함께 성장하고 있습니다."
+  thumbnailUrl: cont_hansol.png
+  rockstar: true
+  ribbon:
+    - {abbr: "휴마니타스", title: "휴마니타스 포토그래퍼", url: "https://www.facebook.com/humanitas70/"}
+    - {abbr: "잉춘", title: "청춘페스티펄 잉춘 멤버", url: ""}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100000643929007"}
+
+-
+  id: 23
+  name: "김윤중(Joy)"
+  company: "SSUmunity"
+  title: "Contents Editor"
+  bio: "트렌드에 민감하고 배움을 미루지 않는 김윤중입니다! 사람들에게 필요하지 않은 것도 필요한 것 처럼 만드는 안목으로 열심히 발맞춤 해가겠습니다!"
+  thumbnailUrl: cont_yunjoong.png
+  rockstar: true
+  ribbon:
+    - {abbr: "휴마니타스", title: "휴마니타스 에디터", url: "https://www.facebook.com/humanitas70/"}
+    - {abbr: "UDC", title: "대학댄스총동아리연합 ‘UDC’ 회장", url: "https://www.facebook.com/HelloUDC"}
+    - {abbr: "Flavor", title: "댄스동아리 Flavor 멤버", url: "https://www.facebook.com/streetdance.flavor"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003249341460"}
+
+-
+  id: 24
+  name: "우선아(Sun)"
+  company: "SSUmunity"
+  title: "Contents Editor"
+  bio: "학생들과 지속적으로 소통하며 커갈 수 있는, 살아있는 콘텐츠를 만드는 에디터가 되고 싶습니다."
+  thumbnailUrl: cont_sun.png
+  rockstar: true
+  ribbon:
+    - {abbr: "휴마니타스", title: "휴마니타스 에디터", url: "https://www.facebook.com/humanitas70/"}
+    - {abbr: "미음", title: "축제 기획단 '미음' 멤버", url: ""}
+    - {abbr: "영어영문학과", title: "영어영문학과 편집부장", url: ""}
+
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004643132063&fref=ts"}
+-
+  id: 25
+  name: "강은일(Silver)"
+  company: "SSUmunity"
+  title: "Contents Editor"
+  bio: "안녕하세요! 구독자에서 제작자로 들어와 하나하나 배우고 있는 막내 강은일 입니다! 조금이라도 도움이되는 컨텐츠를 만들겠습니다."
+  thumbnailUrl: cont_silver.png
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004539883773"}
+
+
+-
+  id: 26
+  name: "조하은(Jane)"
+  company: "SSUmunity"
+  title: "Contents Editor"
+  bio: "슈뮤니티를 통해 많은 도움을 받았던, 이젠 도움을 주고자하는 막내 에디터입니다! 학생들에게 힘이 되는 컨텐츠를 만들기 위해 노력하겠습니다."
+  thumbnailUrl: cont_haeun.png
+  rockstar: true
+  ribbon:
+    - {abbr: "SSUgaon", title: "입학사정센터 SSUgaon 멤버", url: "https://www.facebook.com/SSUGAON/"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008626843149"}

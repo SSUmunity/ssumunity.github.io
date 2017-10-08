@@ -1,0 +1,17 @@
+<!-- Begin Twitter Feed Section -->
+<section id="twitter-feed" class="twitter-feed image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.tweetsFeedImage }});">
+    <div class="overlay solid-overlay"></div>
+    <div class="content-wrapper">
+        <div class="col-md-8 col-md-offset-2">
+            <svg class="icon" viewBox="0 0 30 32">
+                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-facebook"></use>
+            </svg>
+            <h4><a href="https://www.facebook.com/ssumunity/" target="_blank">#{{ site.twitterHashTag }}</a> {{ site.tweetsFeedTitle }}
+            </h4>
+            <br>
+            <h5>{{site.twitterFeed}}</h5>
+            <div id="tweets" class="tweets"></div>
+        </div>
+    </div>
+</section>
+<!-- End Twitter Feed Section -->

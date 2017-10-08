@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/myblog/404</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/about/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/blog/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/cod/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/hackathon/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/myblog/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/logistics/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/members/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/schedule/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/team/</loc>
+    </url>
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/recurit/blog/welcome-to-jekyll</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/recurit/blog/call-for-papers</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/recurit/blog/hello-world</loc>
+    </url>
+    
+</urlset>

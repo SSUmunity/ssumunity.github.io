@@ -1,0 +1,261 @@
+-
+  id: 1
+  name: "구성민"
+  surname: "(Mozzi)"
+  title: "Head of SSUmunity"
+  thumbnailUrl: head_sungmin.png
+  team: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ababqq"}
+    - {name: "github", link: "https://github.com/ababqq"}
+-
+  id: 2
+  name: "오소희"
+  surname: "(Ssohe)"
+  title: "External Cooperation Director"
+  thumbnailUrl: oper_sohee.png
+  team: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/sohee29"}
+-
+  id: 3
+  name: "유호성"
+  surname: "(Eddy)"
+  title: "External Cooperator"
+  thumbnailUrl: oper_eddy.png
+  team: true
+  ribbon:
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/edward.h.yoo"}
+-
+  id: 4
+  name: "박유빈"
+  surname: "(Porory)"
+  title: "External Cooperator"
+  thumbnailUrl: oper_youbin.png
+  team: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100006804967363"}
+-
+  id: 5
+  name: "전의찬"
+  surname: "(Chan-ei)"
+  title: "Operator"
+  thumbnailUrl: oper_euichan.png
+  team: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/jeoneuichan"}
+-
+  id: 6
+  name: "김종찬"
+  surname: "(Ace)"
+  title: "Technical Director"
+  thumbnailUrl: dev_ace.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ace.jckim"}
+    - {name: "github", link: "https://github.com/acious"}
+-
+  id: 7
+  name: "최윤호"
+  surname: "(Kachu)"
+  title: "Lead of Backend"
+  thumbnailUrl: dev_yunho.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/choipika"}
+    - {name: "github", link: "https://github.com/choiking10"}
+#    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 8
+  name: "이상혁"
+  surname: "(Stark)"
+  title: "Backend Engineer"
+  thumbnailUrl: dev_sanghyeok.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/lee.sanghyeok.94"}
+    - {name: "github", link: "https://github.com/leesanghyeok"}
+
+-
+  id: 9
+  name: "오인규"
+  surname: "(Gomjellie)"
+  title: "Backend Engineer"
+  thumbnailUrl: dev_ingyu.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008488698005"}
+    - {name: "github", link: "https://github.com/gomjellie"}
+
+-
+  id: 10
+  name: "양기창"
+  surname: "(Jason)"
+  title: "Android Developer"
+  thumbnailUrl: dev_kichang.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008625183805"}
+    - {name: "github", link: "https://github.com/gichang-yang"}
+
+-
+  id: 11
+  name: "김지훈"
+  surname: "(Hoon)"
+  title: "Android Developer"
+  thumbnailUrl: dev_jihun.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002955521715"}
+    - {name: "github", link: "https://github.com/vagabond95"}
+
+-
+  id: 12
+  name: "박진우"
+  surname: "(Zinu)"
+  title: "iOS Developer"
+  thumbnailUrl: dev_zinu.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/jinwoo.park.161446"}
+    - {name: "github", link: "https://github.com/pacilo"}
+
+-
+  id: 13
+  name: "지건호"
+  surname: ""
+  title: "iOS Developer"
+  thumbnailUrl: dev_gunho.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100006705828821"}
+
+-
+  id: 14
+  name: "신정민"
+  surname: "(Albert)"
+  title: "Frontend Developer"
+  thumbnailUrl: dev_jungmin.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/shin.jeongmin.1"}
+    - {name: "github", link: "https://github.com/tirea02"}
+
+-
+  id: 15
+  name: "유슬기"
+  surname: "(Zoey)"
+  title: "Deep Learning Engineer"
+  thumbnailUrl: dev_seulki.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100005356352767"}
+
+-
+  id: 16
+  name: "김태인"
+  surname: "(Terry)"
+  title: "Android Dev. & UI Designer"
+  thumbnailUrl: dev_taein.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ulnamsong?ref=br_rs"}
+
+-
+  id: 17
+  name: "이기림"
+  surname: "(Limi)"
+  title: "UX Designer"
+  thumbnailUrl: dev_limi.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/limi.klLee?fref=search"}
+
+-
+  id: 18
+  name: "박상권"
+  surname: "(Ent)"
+  title: "Contents Director"
+  thumbnailUrl: cont_sanggwon.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/sanggwon.park.9"}
+-
+  id: 19
+  name: "한빈나"
+  surname: "(Ellie)"
+  title: "Project Manager"
+  thumbnailUrl: cont_binna.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/binna.han.9"}
+
+-
+  id: 20
+  name: "Mingming"
+  surname: ""
+  title: "Contents Designer"
+  thumbnailUrl: cont_ming.png
+  contentsTeam: true
+
+-
+  id: 21
+  name: "최현섭"
+  surname: "(Apeach)"
+  title: "Contents Editor"
+  thumbnailUrl: cont_apeach.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/hellokimchiman"}
+
+-
+  id: 22
+  name: "이한솔"
+  surname: "(Ssol)"
+  title: "Contents Editor"
+  thumbnailUrl: cont_hansol.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100000643929007"}
+
+-
+  id: 23
+  name: "김윤중"
+  surname: "(Joy)"
+  title: "Contents Editor"
+  thumbnailUrl: cont_yunjoong.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003249341460"}
+
+-
+  id: 24
+  name: "우선아"
+  surname: "(Sun)"
+  title: "Contents Editor"
+  thumbnailUrl: cont_sun.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004643132063&fref=ts"}
+
+-
+  id: 25
+  name: "강은일"
+  surname: "(Silver)"
+  title: "Contents Editor"
+  thumbnailUrl: cont_silver.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004539883773"}
+
+-
+  id: 26
+  name: "조하은"
+  surname: "(Jane)"
+  title: "Contents Editor"
+  thumbnailUrl: cont_haeun.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008626843149"}

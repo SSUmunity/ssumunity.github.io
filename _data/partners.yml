@@ -1,0 +1,5 @@
+- 
+  group: "GDG SSU는 아래와 같은 곳의 도움을 받고 활동하고 있습니다."
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.co.kr/intl/ko/about/", imageUrl: "google.svg"}
+    - {name: "GDG Korea", description: "GDG Korea - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-korea.svg"}
