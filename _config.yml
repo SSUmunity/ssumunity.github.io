@@ -41,7 +41,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "/#tickets", text: "SSUmunity 지원하기"}
 rightNavigationButtons:
- - {link: "/recruit/#tickets", text: "SSUmunity 지원하기"}
+ - {link: "/#tickets", text: "SSUmunity 지원하기"}
 
 # Hero Block
 heroImage: "hero.jpg"
