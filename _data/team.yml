@@ -194,6 +194,16 @@
 
 -
   id: 20
+  name: "정일화"
+  surname: "(Ilra)"
+  title: "Project Manager"
+  thumbnailUrl: oper_ilhwa.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ilra1la"}
+
+-
+  id: 21
   name: "Mingming"
   surname: ""
   title: "Contents Designer"
@@ -201,7 +211,7 @@
   contentsTeam: true
 
 -
-  id: 21
+  id: 22
   name: "최현섭"
   surname: "(Apeach)"
   title: "Contents Editor"
@@ -211,7 +221,7 @@
     - {name: "facebook", link: "https://www.facebook.com/hellokimchiman"}
 
 -
-  id: 22
+  id: 23
   name: "이한솔"
   surname: "(Ssol)"
   title: "Contents Editor"
@@ -221,7 +231,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100000643929007"}
 
 -
-  id: 23
+  id: 24
   name: "김윤중"
   surname: "(Joy)"
   title: "Contents Editor"
@@ -231,7 +241,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003249341460"}
 
 -
-  id: 24
+  id: 25
   name: "우선아"
   surname: "(Sun)"
   title: "Contents Editor"
@@ -241,7 +251,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004643132063&fref=ts"}
 
 -
-  id: 25
+  id: 26
   name: "강은일"
   surname: "(Silver)"
   title: "Contents Editor"
@@ -251,7 +261,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004539883773"}
 
 -
-  id: 26
+  id: 27
   name: "조하은"
   surname: "(Jane)"
   title: "Contents Editor"
