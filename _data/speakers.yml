@@ -340,8 +340,6 @@
     - {abbr: "미음", title: "축제 기획단 '미음' 멤버", url: ""}
     - {abbr: "영어영문학과", title: "영어영문학과 편집부장", url: ""}
 
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004643132063&fref=ts"}
 -
   id: 26
   name: "강은일(Silver)"
