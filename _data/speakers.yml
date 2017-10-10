@@ -83,6 +83,7 @@
     - {abbr: "ProtoPie", title: "ProtoPie Software Engineer Intern", url: "https://www.protopie.io"}
     - {abbr: "NAVER", title: "NAVER Developer Relations Intern", url: "https://developers.naver.com/d2/d2campus/"}
     - {abbr: "SW Maestro", title: "Software Maestro 4th Mentee", url: "http://www.swmaestro.kr/web/web/main.do"}
+    - {abbr: "Yourssu.com", title: "숭실대학교 커뮤니티 유어슈닷컴 4대 회장", url: "https://yourssu.com/"}
     - {abbr: "Resume", title: "슈뮤니티 개발 대장의 간지철철 레쥬메 링크", url: "https://drive.google.com/file/d/0B8VkvNwPW06rVnRwcUw1OHd5ejA/view?usp=sharing"}
   social:
     - {name: "facebook", link: "https://www.facebook.com/ace.jckim"}
@@ -121,6 +122,8 @@
   thumbnailUrl: dev_ingyu.png
   bio: "이것저것 만들기를 좋아하는 백엔드 프로그래머입니다. <br>좋아하는 것과 잘하는 것은 다르다는걸 요즘 느끼고 있습니다."
   rockstar: true
+  ribbon:
+    - {abbr: "Yourssu.com", title: "숭실대학교 커뮤니티 유어슈닷컴 개발자", url: "https://yourssu.com/"}
   social:
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008488698005"}
     - {name: "github", link: "https://github.com/gomjellie"}
@@ -147,6 +150,8 @@
   thumbnailUrl: dev_jihun.png
   bio: "아이폰을 사용하고 있는 안드로이드 개발자입니다.<br>항상 이전의 나보다 성장하고자 하는 목표를 가지며 달리고 있습니다.<br>동물을 좋아합니다."
   rockstar: true
+  ribbon:
+    - {abbr: "소공전멸망팀", title: "숭실대학교 소프트웨어공모전 소공전멸망팀(학장상 수상)"}
   social:
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002955521715"}
     - {name: "github", link: "https://github.com/vagabond95"}
@@ -182,6 +187,8 @@
   thumbnailUrl: dev_jungmin.png
   bio: "프론트엔드 개발자 신정민입니다 ! <br>주 개발분야는 프론트엔드 지만, 다 해요! <br>슈뮤니티"
   rockstar: true
+  ribbon:
+    - {abbr: "소공전멸망팀", title: "숭실대학교 소프트웨어공모전 소공전멸망팀(학장상 수상)"}
   social:
     - {name: "facebook", link: "https://www.facebook.com/shin.jeongmin.1"}
     - {name: "github", link: "https://github.com/tirea02"}
@@ -220,6 +227,8 @@
   bio: "이기림입니다. UX 디자이너 입니다."
   thumbnailUrl: dev_limi.png
   rockstar: true
+  ribbon:
+    - {abbr: "소공전멸망팀", title: "숭실대학교 소프트웨어공모전 소공전멸망팀(학장상 수상)"}
   social:
     - {name: "facebook", link: "https://www.facebook.com/limi.klLee?fref=search"}
 
