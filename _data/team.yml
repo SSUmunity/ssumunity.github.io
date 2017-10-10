@@ -118,9 +118,6 @@
   title: "iOS Developer"
   thumbnailUrl: dev_zinu.png
   devTeam: true
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/jinwoo.park.161446"}
-    - {name: "github", link: "https://github.com/pacilo"}
 
 -
   id: 13

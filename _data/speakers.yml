@@ -166,9 +166,6 @@
   rockstar: true
   ribbon:
     - {abbr: "삼성전자", title: "삼성전자 무선사업부 소프트웨어 엔지니어링 인턴"}
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/jinwoo.park.161446"}
-    - {name: "github", link: "https://github.com/pacilo"}
 
 -
   id: 13
