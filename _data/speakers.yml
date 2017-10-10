@@ -80,11 +80,11 @@
   thumbnailUrl: dev_ace.png
   rockstar: true
   ribbon:
-    - {abbr: "ProtoPie", title: "ProtoPie Software Engineering Intern", url: "https://www.protopie.io"}
+    - {abbr: "ProtoPie", title: "ProtoPie SW Engineering Intern", url: "https://www.protopie.io"}
     - {abbr: "NAVER", title: "NAVER Developer Relations Intern", url: "https://developers.naver.com/d2/d2campus/"}
-    - {abbr: "SW Maestro", title: "Software Maestro 4th Mentee", url: "http://www.swmaestro.kr/web/web/main.do"}
-    - {abbr: "Yourssu.com", title: "숭실대학교 커뮤니티 유어슈닷컴 4대 회장", url: "https://yourssu.com/"}
-    - {abbr: "Resume", title: "슈뮤니티 개발 대장의 간지철철 레쥬메 링크", url: "https://drive.google.com/file/d/0B8VkvNwPW06rVnRwcUw1OHd5ejA/view?usp=sharing"}
+    - {abbr: "SW Maestro", title: "SW Maestro 4th Mentee", url: "http://www.swmaestro.kr/web/web/main.do"}
+    - {abbr: "Yourssu.com", title: "숭실대학교 유어슈닷컴 4대 회장", url: "https://yourssu.com/"}
+    - {abbr: "Resume", title: "Resume", url: "https://drive.google.com/file/d/0B8VkvNwPW06rVnRwcUw1OHd5ejA/view?usp=sharing"}
   social:
     - {name: "facebook", link: "https://www.facebook.com/ace.jckim"}
     - {name: "github", link: "https://github.com/acious"}
@@ -164,8 +164,6 @@
   thumbnailUrl: dev_zinu.png
   bio: "안녕하세요. iOS 개발자 박진우입니다."
   rockstar: true
-  ribbon:
-    - {abbr: "삼성전자", title: "삼성전자 무선사업부 소프트웨어 엔지니어링 인턴"}
 
 -
   id: 13
