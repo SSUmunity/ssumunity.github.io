@@ -14,13 +14,13 @@
     <meta name="twitter:description" content="{{ site.description }}">
     <meta name="twitter:image:src" content="{{ site.socialImageSrcTwitter | prepend: site.baseurl | prepend: site.url }}">
     <!-- Social: Facebook / Open Graph -->
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" /> 
-    <meta property="og:site_name" content="{{ site.title }}" /> 
-    <meta property="og:type" content="website" /> 
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ site.url }}" />
     <meta property="og:image" content="{{ site.socialImageSrcFacebook | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:description" content="{{ site.description }}" /> 
-    
+    <meta property="og:description" content="{{ site.description }}" />
+
     <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="shortcut icon" href="{{ "/img/favicons/favicon.ico" | prepend: site.baseurl }}">
     <link rel="apple-touch-icon" sizes="152x152" href="{{ "/img/favicons/apple-touch-icon-152x152.png" | prepend: site.baseurl }}">
@@ -39,20 +39,20 @@
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-TileImage" content="{{ "/img/favicons/mstile-144x144.png" | prepend: site.baseurl }}">
     <meta name="msapplication-config" content="{{ "/img/favicons/browserconfig.xml" | prepend: site.baseurl }}">
-    
+
     <link href="{{ "/fonts/nanumbarungothic.css" | prepend: site.baseurl }}" rel="stylesheet">
     <link href="{{ "/css/main.min.css" | prepend: site.baseurl }}" rel="stylesheet">
 
+        <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107854248-1"></script>
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-      ga('create', 'UA-54778850-1', 'auto');
-      ga('send', 'pageview');
-
+      gtag('config', 'UA-107854248-1');
     </script>
+
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
