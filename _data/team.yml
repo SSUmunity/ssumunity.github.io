@@ -244,8 +244,6 @@
   title: "Contents Editor"
   thumbnailUrl: cont_sun.png
   contentsTeam: true
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004643132063&fref=ts"}
 
 -
   id: 26
