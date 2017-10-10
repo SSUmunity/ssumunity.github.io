@@ -8,61 +8,61 @@
     
     
     <url>
-        <loc>http://localhost:4000/recurit/myblog/404</loc>
+        <loc>http://localhost:4000//myblog/404</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/recurit/about/</loc>
+        <loc>http://localhost:4000//about/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/recurit/blog/</loc>
+        <loc>http://localhost:4000//blog/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/recurit/cod/</loc>
+        <loc>http://localhost:4000//cod/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/recurit/hackathon/</loc>
+        <loc>http://localhost:4000//hackathon/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/recurit/</loc>
+        <loc>http://localhost:4000//</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/recurit/myblog/</loc>
+        <loc>http://localhost:4000//myblog/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/recurit/logistics/</loc>
+        <loc>http://localhost:4000//logistics/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/recurit/members/</loc>
+        <loc>http://localhost:4000//members/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/recurit/schedule/</loc>
+        <loc>http://localhost:4000//schedule/</loc>
     </url>
     
     
@@ -70,22 +70,22 @@
     
     
     <url>
-        <loc>http://localhost:4000/recurit/team/</loc>
+        <loc>http://localhost:4000//team/</loc>
     </url>
     
     
     
     
     <url>
-        <loc>http://localhost:4000/recurit/blog/welcome-to-jekyll</loc>
+        <loc>http://localhost:4000//blog/welcome-to-jekyll</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/recurit/blog/call-for-papers</loc>
+        <loc>http://localhost:4000//blog/call-for-papers</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/recurit/blog/hello-world</loc>
+        <loc>http://localhost:4000//blog/hello-world</loc>
     </url>
     
 </urlset>
