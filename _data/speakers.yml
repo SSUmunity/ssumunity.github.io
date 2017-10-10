@@ -80,7 +80,7 @@
   thumbnailUrl: dev_ace.png
   rockstar: true
   ribbon:
-    - {abbr: "ProtoPie", title: "ProtoPie Software Engineer Intern", url: "https://www.protopie.io"}
+    - {abbr: "ProtoPie", title: "ProtoPie Software Engineering Intern", url: "https://www.protopie.io"}
     - {abbr: "NAVER", title: "NAVER Developer Relations Intern", url: "https://developers.naver.com/d2/d2campus/"}
     - {abbr: "SW Maestro", title: "Software Maestro 4th Mentee", url: "http://www.swmaestro.kr/web/web/main.do"}
     - {abbr: "Yourssu.com", title: "숭실대학교 커뮤니티 유어슈닷컴 4대 회장", url: "https://yourssu.com/"}
@@ -164,6 +164,8 @@
   thumbnailUrl: dev_zinu.png
   bio: "술을 사랑하고 자산을 관리하는 법에 관심이 많은 소프트웨어 개발자입니다. 현재는 군인신분으로 퓨저위즈에서 소프트웨어 개발자로 일하고 있습니다. 인생은 언제나 즐겁게 살아야 하는 것. 이라는 신조로 하루하루를 보내지만 직장인의 삶은 쉽지 않습니다."
   rockstar: true
+  ribbon:
+    - {abbr: "삼성전자", title: "삼성전자 무선사업부 소프트웨어 엔지니어링 인턴"}
   social:
     - {name: "facebook", link: "https://www.facebook.com/jinwoo.park.161446"}
     - {name: "github", link: "https://github.com/pacilo"}
