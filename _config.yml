@@ -195,7 +195,7 @@ tickets3Offers:
     ticketsNumber: ""
     buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
     buyButtonText: "Apply Now"
-    ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원과제] : 지원동기, 자기소개와 같은 자유로운 포트폴리오 + 증빙 서류 제출"]
+    ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원절차] : 서면 인터뷰이후 대면 인터뷰 진행"]
     validFrom: ""
     validThrough: ""
     disabled: true
