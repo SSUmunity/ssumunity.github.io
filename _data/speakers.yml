@@ -182,7 +182,7 @@
   company: "SSUmunity"
   title: "Frontend Developer"
   thumbnailUrl: dev_jungmin.png
-  bio: "프론트엔드 개발자 신정민입니다 ! <br>주 개발분야는 프론트엔드지만, 머신러닝, IOS개발에도 흥미 있씁니다."
+  bio: "프론트엔드 개발자 신정민입니다 ! <br>주 개발분야는 프론트엔드지만, 머신러닝, IOS개발에도 흥미 있습니다."
   rockstar: true
   ribbon:
     - {abbr: "소공전멸망팀", title: "숭실대학교 소프트웨어공모전 소공전멸망팀(학장상, 2등위)"}
