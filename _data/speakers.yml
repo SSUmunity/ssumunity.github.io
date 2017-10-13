@@ -122,8 +122,6 @@
   thumbnailUrl: dev_ingyu.png
   bio: "이것저것 만들기를 좋아하는 백엔드 프로그래머입니다. <br>좋아하는 것과 잘하는 것은 다르다는걸 요즘 느끼고 있습니다."
   rockstar: true
-  ribbon:
-    - {abbr: "Yourssu.com", title: "숭실대학교 커뮤니티 유어슈닷컴 개발자", url: "https://yourssu.com/"}
   social:
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008488698005"}
     - {name: "github", link: "https://github.com/gomjellie"}
