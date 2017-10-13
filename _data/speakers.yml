@@ -182,7 +182,7 @@
   company: "SSUmunity"
   title: "Frontend Developer"
   thumbnailUrl: dev_jungmin.png
-  bio: "프론트엔드 개발자 신정민입니다 ! <br>주 개발분야는 프론트엔드 지만, 다 해요! <br>슈뮤니티"
+  bio: "프론트엔드 개발자 신정민입니다 ! <br>주 개발분야는 프론트엔드지만, 머신러닝, IOS개발에도 흥미 있씁니다."
   rockstar: true
   ribbon:
     - {abbr: "소공전멸망팀", title: "숭실대학교 소프트웨어공모전 소공전멸망팀(학장상, 2등위)"}
@@ -221,7 +221,7 @@
   name: "이기림(Limi)"
   company: "SSUmunity"
   title: "UX Designer"
-  bio: "이기림입니다. UX 디자이너 입니다."
+  bio: "안녕하세요 이기림입니다. UX디자이너로서, 학우 여러분들이 숭실대에서 최적의 경험을 할 수 있도록 노력하겠습니다. <br>잊지 못 할 경험, 함께 만들어가요."
   thumbnailUrl: dev_limi.png
   rockstar: true
   ribbon:
