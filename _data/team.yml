@@ -152,6 +152,14 @@
 
 -
   id: 16
+  name: "이준수"
+  surname: "(Brian)"
+  title: "Backend & Deep Learning Engineer"
+  thumbnailUrl: dev_brian.png
+  devTeam: true
+
+-
+  id: 17
   name: "김태인"
   surname: "(Terry)"
   title: "Android Dev. & UI Designer"
@@ -161,7 +169,7 @@
     - {name: "facebook", link: "https://www.facebook.com/ulnamsong?ref=br_rs"}
 
 -
-  id: 17
+  id: 18
   name: "이기림"
   surname: "(Limi)"
   title: "UX Designer"
@@ -171,7 +179,7 @@
     - {name: "facebook", link: "https://www.facebook.com/limi.klLee?fref=search"}
 
 -
-  id: 18
+  id: 19
   name: "박상권"
   surname: "(Ent)"
   title: "Contents Director"
@@ -180,7 +188,7 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/sanggwon.park.9"}
 -
-  id: 19
+  id: 20
   name: "한빈나"
   surname: "(Ellie)"
   title: "Project Manager"
@@ -190,7 +198,7 @@
     - {name: "facebook", link: "https://www.facebook.com/binna.han.9"}
 
 -
-  id: 20
+  id: 21
   name: "정일화"
   surname: "(Ilra)"
   title: "Project Manager"
@@ -200,35 +208,15 @@
     - {name: "facebook", link: "https://www.facebook.com/ilra1la"}
 
 -
-  id: 21
-  name: "Mingming"
-  surname: ""
-  title: "Contents Designer"
-  thumbnailUrl: cont_ming.png
-  contentsTeam: true
-
--
   id: 22
-  name: "최현섭"
-  surname: "(Apeach)"
-  title: "Contents Editor"
-  thumbnailUrl: cont_apeach.png
+  name: "목민주"
+  surname: "(Mingming)"
+  title: "Contents Designer"
+  thumbnailUrl: cont_mingming.png
   contentsTeam: true
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/hellokimchiman"}
 
 -
   id: 23
-  name: "이한솔"
-  surname: "(Ssol)"
-  title: "Contents Editor"
-  thumbnailUrl: cont_hansol.png
-  contentsTeam: true
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100000643929007"}
-
--
-  id: 24
   name: "김윤중"
   surname: "(Joy)"
   title: "Contents Editor"
@@ -238,7 +226,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003249341460"}
 
 -
-  id: 25
+  id: 24
   name: "우선아"
   surname: "(Sun)"
   title: "Contents Editor"
@@ -246,7 +234,7 @@
   contentsTeam: true
 
 -
-  id: 26
+  id: 25
   name: "강은일"
   surname: "(Silver)"
   title: "Contents Editor"
@@ -256,7 +244,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004539883773"}
 
 -
-  id: 27
+  id: 26
   name: "조하은"
   surname: "(Jane)"
   title: "Contents Editor"
