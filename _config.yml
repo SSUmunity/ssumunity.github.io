@@ -45,9 +45,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "2017 <typeout> Recruit"
-eventDate: "10/13 Fri - 10/23 Mon, 2017"
-typeoutTextValues: '"SSUmunity","슈뮤니티", "Show your energy on"'
+heroTitle: "2018 <typeout> 신입 멤버 모집"
+eventDate: "상시 모집 중!"
+typeoutTextValues: '"SSUmunity","슈뮤니티", "숭실대 최고 커뮤니티의"'
 typeoutFallback: "SSUmunuity"
 heroButtons:
  - {permalink: "/#tickets", text: "SSUmunity 지원하기"}
@@ -65,7 +65,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "9000", specialCharacter: "+", info: "Facebook Like", detail: "학교생활과 관련한 팁과 정보를 제공하는 슈뮤니티 페이스북 페이지는 9000 Like 이상의 팔로워를 가지고있는 교내 공식 페이지를 제외한 최고의 영향력을 가진 페이지이자 커뮤니티입니다."}
  - {count: "2013", specialCharacter: "", info: "Established Year", detail: "슈뮤니티는 2013년 학번별 페이스북 그룹으로 시작하여, 현재는 더 많은 학생들에게 학교생활에 필요한 정보를 전달하고 교류하게 하자는 목표로 5년간 활동해온 그룹입니다."}
- - {count: "25", specialCharacter: "+", info: "Members Count", detail: "슈뮤니티에는 자신의 분야에서 전문성과 책임감을 갖고 활동하는 25명의 정예 멤버가 활동하고 있습니다. 이 멤버들의 자세한 소개를 보고싶다면 아래의 SSUmunity 사람들을 참고하세요."}
+ - {count: "30", specialCharacter: "+", info: "Members Count", detail: "슈뮤니티에는 자신의 분야에서 전문성과 책임감을 갖고 활동하는 약 30여명의 정예 멤버가 활동하고 있습니다. 이 멤버들의 자세한 소개를 보고싶다면 아래의 SSUmunity 사람들을 참고하세요."}
 
 # Latest News Block
 latestNewsTitle: "Mission of SSUmunity"
@@ -99,7 +99,7 @@ venueSmallImage1: "2.jpg"
 venueSmallImage2: "3.jpg"
 venueSmallImage3: "4.jpg"
 venueTitle: "Achievement of SSUmunity"
-venueFeatures: ["2016-2017 예비대학 행사", "Campus App SSULite 개발", "2017 상도 달밤장터 진행", "and... SSUmunity Tech Day is comming!"]
+venueFeatures: ["2016-2018 예비대학 행사", "캠퍼스 앱 서비스 SSULite 개발", "2017 상도 달밤장터 진행", "2017 SSUmunity Tech Day", "슈뮤니티 영화 상영회"]
 
 # Tweets Feed Block
 tweetsFeedImage: "working.jpg"
@@ -137,20 +137,6 @@ ticketsOffers:
   disabled: true
   featured: true
 
- -
-  name: "UI Designer"
-  price: ""
-  priceCurrency: "Preferred Qualifications"
-  ticketsNumber: ""
-  buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-  buyButtonText: "Apply Now"
-  ticketContentList: ["[필수조건] : Mac을 가지고 있으며, Android, iOS 플랫폼에 적합하고 유저 친화적인 UI 디자인을 작업해주실 분. Sketch 혹은 Adobe 디자인 툴에 대한 경험은 필수. 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항1] : Google의 Material Design, Apple의 Human Interface Guidline, Facebook의 Origami Design 등 산업에서 연구하고 활용되는 UI 가이드라인을 학습하고 그것을 서비스 제품에 녹여내고자 하는 의향이 있는 분", "[우대사항2] : Balsamiq Mockup, ProtoPie, Framer 등 프로토타이핑 툴을 이용해 최근 현업에서 중요시되는 디자인 선 검증 프로세스를 배워보고 서비스에 적용해보고자 하는 의향이 있는 분.", "[지원 절차] : 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰(디자인 관련) 진행"]
-  validFrom: ""
-  validThrough: ""
-## 이부분이 하이라이팅
-  disabled: true
-  featured: true
-
 # Tickets2 Block
 tickets2Title: "컨텐츠팀에서 리쿠르팅 중인 역할"
 tickets2Info: ""
@@ -170,18 +156,33 @@ tickets2Offers:
   disabled: true
   featured: true
 
- -
-  name: "Contents Designer"
-  price: ""
-  priceCurrency: "Preferred Qualifications"
-  ticketsNumber: ""
-  buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-  buyButtonText: "Apply Now"
-  ticketContentList: ["[필수조건] 포토샵, 일러스트 등 디자인 툴을 능숙하게 다루실 수 있으며, 디자인에 대한 이론적 이해도가 높으신 분. 컨텐츠 제작 및 디자인에 관심이 많으신 분.", "[우대사항] SNS 컨텐츠 관련 직종으로 취직을 희망하며, SNS 컨텐츠 관련한 제작 경험이 있으신 분", "[우대사항] 카드뉴스, 포스터, 로고 등의 다양한 종류의 디자인 관련 경험이 풍부하신 분", "[지원절차] 서면 인터뷰(디자인 관련 포트폴리오 1부 제출) 이후 통과된 분에 한해 대면 인터뷰 진행"]
-  validFrom: ""
-  validThrough: ""
-  disabled: true
-  featured: true
+  -
+   name: "Media PD"
+   price: ""
+   priceCurrency: "Preferred Qualifications"
+   ticketsNumber: ""
+   buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+   buyButtonText: "Apply Now"
+   ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
+            문화,예술,정치,사회 등 다방면에 관심과 지식이 있으신 분", "[우대사항] 기획쪽으로 취직을 희망하며, 교내 혹은 대외에서 기획 관련 경험 혹은 이력이 있으신 분", "[우대사항] SNS 채널 운영 경험 혹은 SNS 컨텐츠 제작 경험이 있으신 분", "[지원절차] 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰 진행<br>"]
+   validFrom: ""
+   validThrough: ""
+   disabled: true
+   featured: true
+
+   -
+    name: "Contents Editor"
+    price: ""
+    priceCurrency: "Preferred Qualifications"
+    ticketsNumber: ""
+    buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+    buyButtonText: "Apply Now"
+    ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
+             문화,예술,정치,사회 등 다방면에 관심과 지식이 있으신 분", "[우대사항] 기획쪽으로 취직을 희망하며, 교내 혹은 대외에서 기획 관련 경험 혹은 이력이 있으신 분", "[우대사항] SNS 채널 운영 경험 혹은 SNS 컨텐츠 제작 경험이 있으신 분", "[지원절차] 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰 진행<br>"]
+    validFrom: ""
+    validThrough: ""
+    disabled: true
+    featured: true
 
 # Tickets3 Block
 tickets3Title: "운영팀에서 리쿠르팅 중인 역할"
@@ -189,7 +190,7 @@ tickets3Info: ""
 tickets3Offers:
 
  -
-    name: "Operator"
+    name: "HR Manager"
     price: ""
     priceCurrency: "Preferred Qualifications"
     ticketsNumber: ""
@@ -200,6 +201,51 @@ tickets3Offers:
     validThrough: ""
     disabled: true
     featured: true
+
+ -
+    name: "Accountant"
+    price: ""
+    priceCurrency: "Preferred Qualifications"
+    ticketsNumber: ""
+    buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+    buyButtonText: "Apply Now"
+    ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원절차] : 서면 인터뷰이후 대면 인터뷰 진행"]
+    validFrom: ""
+    validThrough: ""
+    disabled: true
+    featured: true
+
+  -
+     name: "Bussines Manager"
+     price: ""
+     priceCurrency: "Preferred Qualifications"
+     ticketsNumber: ""
+     buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+     buyButtonText: "Apply Now"
+     ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원절차] : 서면 인터뷰이후 대면 인터뷰 진행"]
+     validFrom: ""
+     validThrough: ""
+     disabled: true
+     featured: true
+
+# Tickets4 Block
+tickets4Title: "디자인팀에서 리쿠르팅 중인 역할"
+tickets4Info: ""
+tickets4Offers:
+
+  -
+   name: "UI Designer"
+   price: ""
+   priceCurrency: "Preferred Qualifications"
+   ticketsNumber: ""
+   buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+   buyButtonText: "Apply Now"
+   ticketContentList: ["[필수조건] : Mac을 가지고 있으며, Android, iOS 플랫폼에 적합하고 유저 친화적인 UI 디자인을 작업해주실 분. Sketch 혹은 Adobe 디자인 툴에 대한 경험은 필수. 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항1] : Google의 Material Design, Apple의 Human Interface Guidline, Facebook의 Origami Design 등 산업에서 연구하고 활용되는 UI 가이드라인을 학습하고 그것을 서비스 제품에 녹여내고자 하는 의향이 있는 분", "[우대사항2] : Balsamiq Mockup, ProtoPie, Framer 등 프로토타이핑 툴을 이용해 최근 현업에서 중요시되는 디자인 선 검증 프로세스를 배워보고 서비스에 적용해보고자 하는 의향이 있는 분.", "[지원 절차] : 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰(디자인 관련) 진행"]
+   validFrom: ""
+   validThrough: ""
+ ## 이부분이 하이라이팅
+   disabled: true
+   featured: true
 
 # Footer
 socialLinks:
