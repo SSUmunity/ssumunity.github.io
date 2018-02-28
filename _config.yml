@@ -152,9 +152,9 @@ ticketsOffers:
   featured: true
 
 # Tickets2 Block
-tickets2Title: "컨텐츠팀에서 리쿠르팅 중인 역할"
-tickets2Info: ""
-tickets2Offers:
+tickets3Title: "컨텐츠팀에서 리쿠르팅 중인 역할"
+tickets3Info: ""
+tickets3Offers:
 
  -
   name: "Project Manager"
