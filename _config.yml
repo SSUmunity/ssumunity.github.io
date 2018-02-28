@@ -45,9 +45,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "2018 <typeout> 신입 멤버 모집"
-eventDate: "상시 모집 중!"
-typeoutTextValues: '"SSUmunity","슈뮤니티", "숭실대 최고 커뮤니티의"'
+heroTitle: "2018 <typeout> Recruit"
+eventDate: "상시모집 진행 중"
+typeoutTextValues: '"SSUmunity","슈뮤니티", "Show your energy on"'
 typeoutFallback: "SSUmunuity"
 heroButtons:
  - {permalink: "/#tickets", text: "SSUmunity 지원하기"}
@@ -99,7 +99,7 @@ venueSmallImage1: "2.jpg"
 venueSmallImage2: "3.jpg"
 venueSmallImage3: "4.jpg"
 venueTitle: "Achievement of SSUmunity"
-venueFeatures: ["2016-2018 예비대학 행사", "캠퍼스 앱 서비스 SSULite 개발", "2017 상도 달밤장터 진행", "2017 SSUmunity Tech Day", "슈뮤니티 영화 상영회"]
+venueFeatures: ["2016-2017 예비대학 행사", "Campus App SSULite 개발", "2017 상도 달밤장터 진행", "and... SSUmunity Tech Day is comming!"]
 
 # Tweets Feed Block
 tweetsFeedImage: "working.jpg"
@@ -152,9 +152,9 @@ ticketsOffers:
   featured: true
 
 # Tickets2 Block
-tickets3Title: "컨텐츠팀에서 리쿠르팅 중인 역할"
-tickets3Info: ""
-tickets3Offers:
+tickets2Title: "컨텐츠팀에서 리쿠르팅 중인 역할"
+tickets2Info: ""
+tickets2Offers:
 
  -
   name: "Project Manager"
@@ -170,34 +170,18 @@ tickets3Offers:
   disabled: true
   featured: true
 
-  -
-   name: "Media PD"
-   price: ""
-   priceCurrency: "Preferred Qualifications"
-   ticketsNumber: ""
-   buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-   buyButtonText: "Apply Now"
-   ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
-            문화,예술,정치,사회 등 다방면에 관심과 지식이 있으신 분", "[우대사항] 기획쪽으로 취직을 희망하며, 교내 혹은 대외에서 기획 관련 경험 혹은 이력이 있으신 분", "[우대사항] SNS 채널 운영 경험 혹은 SNS 컨텐츠 제작 경험이 있으신 분", "[지원절차] 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰 진행<br>"]
-   validFrom: ""
-   validThrough: ""
-   disabled: true
-   featured: true
-
-   -
-    name: "Contents Editor"
-    price: ""
-    priceCurrency: "Preferred Qualifications"
-    ticketsNumber: ""
-    buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-    buyButtonText: "Apply Now"
-    ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
-             문화,예술,정치,사회 등 다방면에 관심과 지식이 있으신 분", "[우대사항] 기획쪽으로 취직을 희망하며, 교내 혹은 대외에서 기획 관련 경험 혹은 이력이 있으신 분", "[우대사항] SNS 채널 운영 경험 혹은 SNS 컨텐츠 제작 경험이 있으신 분", "[지원절차] 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰 진행<br>"]
-    validFrom: ""
-    validThrough: ""
-    disabled: true
-    featured: true
-
+ -
+  name: "Contents Designer"
+  price: ""
+  priceCurrency: "Preferred Qualifications"
+  ticketsNumber: ""
+  buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+  buyButtonText: "Apply Now"
+  ticketContentList: ["[필수조건] 포토샵, 일러스트 등 디자인 툴을 능숙하게 다루실 수 있으며, 디자인에 대한 이론적 이해도가 높으신 분. 컨텐츠 제작 및 디자인에 관심이 많으신 분.", "[우대사항] SNS 컨텐츠 관련 직종으로 취직을 희망하며, SNS 컨텐츠 관련한 제작 경험이 있으신 분", "[우대사항] 카드뉴스, 포스터, 로고 등의 다양한 종류의 디자인 관련 경험이 풍부하신 분", "[지원절차] 서면 인터뷰(디자인 관련 포트폴리오 1부 제출) 이후 통과된 분에 한해 대면 인터뷰 진행"]
+  validFrom: ""
+  validThrough: ""
+  disabled: true
+  featured: true
 
 # Tickets3 Block
 tickets3Title: "운영팀에서 리쿠르팅 중인 역할"
@@ -205,7 +189,7 @@ tickets3Info: ""
 tickets3Offers:
 
  -
-    name: "HR Manager"
+    name: "Operator"
     price: ""
     priceCurrency: "Preferred Qualifications"
     ticketsNumber: ""
@@ -216,32 +200,6 @@ tickets3Offers:
     validThrough: ""
     disabled: true
     featured: true
-
- -
-     name: "Accountant"
-     price: ""
-     priceCurrency: "Preferred Qualifications"
-     ticketsNumber: ""
-     buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-     buyButtonText: "Apply Now"
-     ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원절차] : 서면 인터뷰이후 대면 인터뷰 진행"]
-     validFrom: ""
-     validThrough: ""
-     disabled: true
-     featured: true
-
- -
-     name: "Bussines Manager"
-     price: ""
-     priceCurrency: "Preferred Qualifications"
-     ticketsNumber: ""
-     buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-     buyButtonText: "Apply Now"
-     ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원절차] : 서면 인터뷰이후 대면 인터뷰 진행"]
-     validFrom: ""
-     validThrough: ""
-     disabled: true
-     featured: true
 
 # Footer
 socialLinks:
