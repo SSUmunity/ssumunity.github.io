@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "SSUmunity 2017 F/W Recruit"
+title: "SSUmunity 2018 Recruit"
 email: "ssumunity@gmail.com"
 description: "숭실대학교 캠퍼스 라이프를 더 발전시키기위한 한 걸음, SSUmunity의 위대한 리쿠르팅"
 baseurl: "/"
@@ -45,8 +45,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "2017 <typeout> Recruit"
-eventDate: "10/13 Fri - 10/23 Mon, 2017"
+heroTitle: "2018 <typeout> Recruit"
+eventDate: "상시모집 진행 중"
 typeoutTextValues: '"SSUmunity","슈뮤니티", "Show your energy on"'
 typeoutFallback: "SSUmunuity"
 heroButtons:
