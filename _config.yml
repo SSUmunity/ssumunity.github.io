@@ -123,99 +123,94 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "개발팀에서 리쿠르팅 중인 역할"
 ticketsInfo: ""
 ticketsOffers:
-
  -
-  name: "iOS Developer"
-  price: ""
-  priceCurrency: "Preferred Qualifications"
-  ticketsNumber: ""
-  buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-  buyButtonText: "Apply Now"
-  ticketContentList: ["[필수조건] : Mac을 가지고 있으며, 소프트웨어 개발자를 목표로 iOS 개발을 배워보고 숭실대학교 학생들을 위한 서비스를 만들어보고 싶은 분. 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항1] : 소프트웨어 개발의 생산성을 높여주는 버전 관리, 애자일 등의 프로세스를 이용해 효율적인 개발과 팀 협업을 진행해보고 배울 의향이 있는 분.", "[우대사항2] : 디자이너와의 매끄러운 협업이 가능하고 서비스를 사용하는 유저의 입장을 생각하면서 개발을 하시는 분", "[지원 절차] : 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행"]
-  validFrom: ""
-  validThrough: ""
-  disabled: true
-  featured: true
+     name: "iOS Developer"
+     price: ""
+     priceCurrency: "Preferred Qualifications"
+     ticketsNumber: ""
+     buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+     buyButtonText: "Apply Now"
+     ticketContentList: ["[필수조건] : Mac을 가지고 있으며, 소프트웨어 개발자를 목표로 iOS 개발을 배워보고 숭실대학교 학생들을 위한 서비스를 만들어보고 싶은 분. 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항1] : 소프트웨어 개발의 생산성을 높여주는 버전 관리, 애자일 등의 프로세스를 이용해 효율적인 개발과 팀 협업을 진행해보고 배울 의향이 있는 분.", "[우대사항2] : 디자이너와의 매끄러운 협업이 가능하고 서비스를 사용하는 유저의 입장을 생각하면서 개발을 하시는 분", "[지원 절차] : 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행"]
+     validFrom: ""
+     validThrough: ""
+     disabled: true
+     featured: true
 
 # Tickets2 Block
 tickets2Title: "컨텐츠팀에서 리쿠르팅 중인 역할"
 tickets2Info: ""
 tickets2Offers:
-
  -
-  name: "Project Manager"
-  price: ""
-  priceCurrency: "Preferred Qualifications"
-  ticketsNumber: ""
-  buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-  buyButtonText: "Apply Now"
-  ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
+     name: "Project Manager"
+     price: ""
+     priceCurrency: "Preferred Qualifications"
+     ticketsNumber: ""
+     buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+     buyButtonText: "Apply Now"
+     ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
            문화,예술,정치,사회 등 다방면에 관심과 지식이 있으신 분", "[우대사항] 기획쪽으로 취직을 희망하며, 교내 혹은 대외에서 기획 관련 경험 혹은 이력이 있으신 분", "[우대사항] SNS 채널 운영 경험 혹은 SNS 컨텐츠 제작 경험이 있으신 분", "[지원절차] 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰 진행<br>"]
-  validFrom: ""
-  validThrough: ""
-  disabled: true
-  featured: true
-
-  -
-   name: "Media PD"
-   price: ""
-   priceCurrency: "Preferred Qualifications"
-   ticketsNumber: ""
-   buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-   buyButtonText: "Apply Now"
-   ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
+     validFrom: ""
+     validThrough: ""
+     disabled: true
+     featured: true
+ -
+     name: "Media PD"
+     price: ""
+     priceCurrency: "Preferred Qualifications"
+     ticketsNumber: ""
+     buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+     buyButtonText: "Apply Now"
+     ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
             문화,예술,정치,사회 등 다방면에 관심과 지식이 있으신 분", "[우대사항] 기획쪽으로 취직을 희망하며, 교내 혹은 대외에서 기획 관련 경험 혹은 이력이 있으신 분", "[우대사항] SNS 채널 운영 경험 혹은 SNS 컨텐츠 제작 경험이 있으신 분", "[지원절차] 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰 진행<br>"]
-   validFrom: ""
-   validThrough: ""
-   disabled: true
-   featured: true
-
-   -
-    name: "Contents Editor"
-    price: ""
-    priceCurrency: "Preferred Qualifications"
-    ticketsNumber: ""
-    buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-    buyButtonText: "Apply Now"
-    ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
+     validFrom: ""
+     validThrough: ""
+     disabled: true
+     featured: true
+ -
+     name: "Contents Editor"
+     price: ""
+     priceCurrency: "Preferred Qualifications"
+     ticketsNumber: ""
+     buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+     buyButtonText: "Apply Now"
+     ticketContentList: ["[필수조건] 컨텐츠 기획에 관심이 있으며, 기본적인 컨텐츠 제작능력과 함께 사람 및 조직 관리에 능숙하신 분.<br>
              문화,예술,정치,사회 등 다방면에 관심과 지식이 있으신 분", "[우대사항] 기획쪽으로 취직을 희망하며, 교내 혹은 대외에서 기획 관련 경험 혹은 이력이 있으신 분", "[우대사항] SNS 채널 운영 경험 혹은 SNS 컨텐츠 제작 경험이 있으신 분", "[지원절차] 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰 진행<br>"]
-    validFrom: ""
-    validThrough: ""
-    disabled: true
-    featured: true
+     validFrom: ""
+     validThrough: ""
+     disabled: true
+     featured: true
 
 # Tickets3 Block
 tickets3Title: "운영팀에서 리쿠르팅 중인 역할"
 tickets3Info: ""
 tickets3Offers:
+ -
+     name: "HR Manager"
+     price: ""
+     priceCurrency: "Preferred Qualifications"
+     ticketsNumber: ""
+     buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+     buyButtonText: "Apply Now"
+     ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원절차] : 서면 인터뷰이후 대면 인터뷰 진행"]
+     validFrom: ""
+     validThrough: ""
+     disabled: true
+     featured: true
 
  -
-    name: "HR Manager"
-    price: ""
-    priceCurrency: "Preferred Qualifications"
-    ticketsNumber: ""
-    buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-    buyButtonText: "Apply Now"
-    ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원절차] : 서면 인터뷰이후 대면 인터뷰 진행"]
-    validFrom: ""
-    validThrough: ""
-    disabled: true
-    featured: true
+     name: "Accountant"
+     price: ""
+     priceCurrency: "Preferred Qualifications"
+     ticketsNumber: ""
+     buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+     buyButtonText: "Apply Now"
+     ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원절차] : 서면 인터뷰이후 대면 인터뷰 진행"]
+     validFrom: ""
+     validThrough: ""
+     disabled: true
+     featured: true
 
  -
-    name: "Accountant"
-    price: ""
-    priceCurrency: "Preferred Qualifications"
-    ticketsNumber: ""
-    buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-    buyButtonText: "Apply Now"
-    ticketContentList: ["[업무] : SSUmunity의 목적을 달성하기위한 외부와의 커뮤니케이션 및 협상, SSUmunity의 모든 인적 리소스를 관리하고, 팀 문화를 더 좋게 만들기위한 아이디어를 내고 실행하기", "[우대사항]: 작문력이 뛰어난 분, 대외활동 능력이 풍부한 분, 다방면의 경험이 많으신 분", "[지원절차] : 서면 인터뷰이후 대면 인터뷰 진행"]
-    validFrom: ""
-    validThrough: ""
-    disabled: true
-    featured: true
-
-  -
      name: "Bussines Manager"
      price: ""
      priceCurrency: "Preferred Qualifications"
@@ -228,24 +223,24 @@ tickets3Offers:
      disabled: true
      featured: true
 
-# Tickets4 Block
-tickets4Title: "디자인팀에서 리쿠르팅 중인 역할"
-tickets4Info: ""
-tickets4Offers:
-
-  -
-   name: "UI Designer"
-   price: ""
-   priceCurrency: "Preferred Qualifications"
-   ticketsNumber: ""
-   buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
-   buyButtonText: "Apply Now"
-   ticketContentList: ["[필수조건] : Mac을 가지고 있으며, Android, iOS 플랫폼에 적합하고 유저 친화적인 UI 디자인을 작업해주실 분. Sketch 혹은 Adobe 디자인 툴에 대한 경험은 필수. 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항1] : Google의 Material Design, Apple의 Human Interface Guidline, Facebook의 Origami Design 등 산업에서 연구하고 활용되는 UI 가이드라인을 학습하고 그것을 서비스 제품에 녹여내고자 하는 의향이 있는 분", "[우대사항2] : Balsamiq Mockup, ProtoPie, Framer 등 프로토타이핑 툴을 이용해 최근 현업에서 중요시되는 디자인 선 검증 프로세스를 배워보고 서비스에 적용해보고자 하는 의향이 있는 분.", "[지원 절차] : 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰(디자인 관련) 진행"]
-   validFrom: ""
-   validThrough: ""
- ## 이부분이 하이라이팅
-   disabled: true
-   featured: true
+# # Tickets4 Block
+# tickets4Title: "디자인팀에서 리쿠르팅 중인 역할"
+# tickets4Info: ""
+# tickets4Offers:
+#
+#   -
+#    name: "UI Designer"
+#    price: ""
+#    priceCurrency: "Preferred Qualifications"
+#    ticketsNumber: ""
+#    buyButtonLink: "https://goo.gl/forms/Xkq3MfI7gBxVkulp1"
+#    buyButtonText: "Apply Now"
+#    ticketContentList: ["[필수조건] : Mac을 가지고 있으며, Android, iOS 플랫폼에 적합하고 유저 친화적인 UI 디자인을 작업해주실 분. Sketch 혹은 Adobe 디자인 툴에 대한 경험은 필수. 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항1] : Google의 Material Design, Apple의 Human Interface Guidline, Facebook의 Origami Design 등 산업에서 연구하고 활용되는 UI 가이드라인을 학습하고 그것을 서비스 제품에 녹여내고자 하는 의향이 있는 분", "[우대사항2] : Balsamiq Mockup, ProtoPie, Framer 등 프로토타이핑 툴을 이용해 최근 현업에서 중요시되는 디자인 선 검증 프로세스를 배워보고 서비스에 적용해보고자 하는 의향이 있는 분.", "[지원 절차] : 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰(디자인 관련) 진행"]
+#    validFrom: ""
+#    validThrough: ""
+#  ## 이부분이 하이라이팅
+#    disabled: true
+#    featured: true
 
 # Footer
 socialLinks:
