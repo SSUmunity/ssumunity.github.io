@@ -118,7 +118,7 @@
   bio: "백엔드의 코드로 숭실대학교를 뒤집어버릴 개발팀의 케플러입니다. 제가 슈뮤니티에 승선한이상 AWS는 숭실대학교만을 위해서 존재하는 서비스로 만들어버릴 자신이 있습니다."
   rockstar: true
   ribbon:
-    - {abbr: "Load Complete", title: "Client Engineer", url: "https://loadcomplete.com/"}
+    - {abbr: "Load Complete", title: "Load Complete Client Engineer", url: "https://loadcomplete.com/"}
   social:
     - {name: "facebook", link: "https://www.facebook.com/seonggwang.gwon"}
 
@@ -419,10 +419,13 @@
   name: "하재민(Jyassmin)"
   company: "SSUmunity"
   title: "Contents Editor"
-  bio: "-"
+  bio: "우리 주위의 무심코 지나칠 수 있던것들을 컨텐츠화 하여 숭실대 학우분들과 즐거움을 공유하고 싶습니다. <br>에디터로 활동하면서도 팔로워쉽을 발휘하여 제 역할에 최선을 다하고 싶습니다."
   thumbnailUrl: cont_jyassmin.png
   rockstar: true
   ribbon:
+    - {abbr: "군북고등학교", title: "군북고등학교 제 49대 학생회장"}
+    - {abbr: "숭실대학교 2017 동계 해외봉사단원", title: "숭실대학교 2017 동계 해외봉사단원"}
+    - {abbr: "특허 2개 보유", title: "특허 2개 보유"}
   social:
 
 -
@@ -434,7 +437,7 @@
   thumbnailUrl: dev_ace.png
   rockstar: true
   ribbon:
-    - {abbr: "Awair", title: "SW Engineer", url: "https://getawair.com"}
+    - {abbr: "Awair", title: "Awair SW Engineer", url: "https://getawair.com"}
     - {abbr: "ProtoPie", title: "ProtoPie SW Engineering Intern", url: "https://www.protopie.io"}
     - {abbr: "NAVER", title: "NAVER Developer Relations Intern", url: "https://developers.naver.com/d2/d2campus/"}
     - {abbr: "SW Maestro", title: "SW Maestro 4th Mentee", url: "http://www.swmaestro.kr/web/web/main.do"}
