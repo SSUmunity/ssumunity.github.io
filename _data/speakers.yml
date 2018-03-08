@@ -117,8 +117,8 @@
   thumbnailUrl: dev_kepler.png
   bio: "백엔드의 코드로 숭실대학교를 뒤집어버릴 개발팀의 케플러입니다. 제가 슈뮤니티에 승선한이상 AWS는 숭실대학교만을 위해서 존재하는 서비스로 만들어버릴 자신이 있습니다."
   rockstar: true
-    ribbon:
-      - {abbr: "Load Complete", title: "Client Engineer", url: "https://loadcomplete.com/"}
+  ribbon:
+    - {abbr: "Load Complete", title: "Client Engineer", url: "https://loadcomplete.com/"}
   social:
     - {name: "facebook", link: "https://www.facebook.com/seonggwang.gwon"}
 
