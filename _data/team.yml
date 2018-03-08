@@ -71,6 +71,16 @@
 
 -
   id: 8
+  name: "권성광"
+  surname: "(Kepler)"
+  title: "Sr. Backend Engineer"
+  thumbnailUrl: dev_kepler.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/seonggwang.gwon"}
+
+-
+  id: 9
   name: "최윤호"
   surname: "(Kachu)"
   title: "Backend Engineer"
@@ -79,16 +89,6 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/choipika"}
     - {name: "github", link: "https://github.com/choiking10"}
-
--
-  id: 9
-  name: "권성광"
-  surname: "(Kepler)"
-  title: "Sr. Backend Engineer"
-  thumbnailUrl: dev_kepler.png
-  devTeam: true
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/seonggwang.gwon"}
 
 -
   id: 10
@@ -102,17 +102,6 @@
 
 -
   id: 11
-  name: "양기창"
-  surname: "(Jason)"
-  title: "Android Developer"
-  thumbnailUrl: dev_kichang.png
-  devTeam: true
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008625183805"}
-    - {name: "github", link: "https://github.com/gichang-yang"}
-
--
-  id: 12
   name: "김지훈"
   surname: "(Hoon)"
   title: "Sr. Android Developer"
@@ -121,6 +110,17 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002955521715"}
     - {name: "github", link: "https://github.com/vagabond95"}
+
+-
+  id: 12
+  name: "양기창"
+  surname: "(Jason)"
+  title: "Android Developer"
+  thumbnailUrl: dev_kichang.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008625183805"}
+    - {name: "github", link: "https://github.com/gichang-yang"}
 
 -
   id: 13
