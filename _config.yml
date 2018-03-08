@@ -65,7 +65,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "9000", specialCharacter: "+", info: "Facebook Like", detail: "학교생활과 관련한 팁과 정보를 제공하는 슈뮤니티 페이스북 페이지는 9000 Like 이상의 팔로워를 가지고있는 교내 공식 페이지를 제외한 최고의 영향력을 가진 페이지이자 커뮤니티입니다."}
  - {count: "2013", specialCharacter: "", info: "Established Year", detail: "슈뮤니티는 2013년 학번별 페이스북 그룹으로 시작하여, 현재는 더 많은 학생들에게 학교생활에 필요한 정보를 전달하고 교류하게 하자는 목표로 5년간 활동해온 그룹입니다."}
- - {count: "30", specialCharacter: "+", info: "Members Count", detail: "슈뮤니티에는 자신의 분야에서 전문성과 책임감을 갖고 활동하는 25명의 정예 멤버가 활동하고 있습니다. 이 멤버들의 자세한 소개를 보고싶다면 아래의 SSUmunity 사람들을 참고하세요."}
+ - {count: "30", specialCharacter: "+", info: "Members Count", detail: "슈뮤니티에는 자신의 분야에서 전문성과 책임감을 갖고 활동하는 33명의 정예 멤버가 활동하고 있습니다. 이 멤버들의 자세한 소개를 보고싶다면 아래의 SSUmunity 사람들을 참고하세요."}
 
 # Latest News Block
 latestNewsTitle: "Mission of SSUmunity"
