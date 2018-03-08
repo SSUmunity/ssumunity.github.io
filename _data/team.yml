@@ -21,7 +21,7 @@
   id: 3
   name: "유호성"
   surname: "(Eddy)"
-  title: "Operator"
+  title: "Legal Operations Manager"
   thumbnailUrl: oper_eddy.png
   team: true
   ribbon:
@@ -32,7 +32,7 @@
   id: 4
   name: "전의찬"
   surname: "(Chan-ei)"
-  title: "Operator"
+  title: "Business Operations Manager"
   thumbnailUrl: oper_euichan.png
   team: true
   social:
@@ -42,18 +42,18 @@
   id: 5
   name: "권용환"
   surname: "(Yong)"
-  title: "Operator"
-  thumbnailUrl: oper_youbin.png
+  title: "Business Operations Manager"
+  thumbnailUrl: oper_yong.png
   team: true
   social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100006804967363"}
+    - {name: "facebook", link: "https://www.facebook.com/yongwhan.gweon"}
 
 -
   id: 6
   name: "조성준"
   surname: "(Joon)"
-  title: "Operator"
-  thumbnailUrl: oper_euichan.png
+  title: "HR Manager"
+  thumbnailUrl: cont_joon.png
   team: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/jeoneuichan"}
@@ -82,24 +82,23 @@
 
 -
   id: 9
-  name: "오인규"
-  surname: "(Gomjellie)"
-  title: "Backend Engineer"
-  thumbnailUrl: dev_ingyu.png
+  name: "권성광"
+  surname: "(Kepler)"
+  title: "Sr. Backend Engineer"
+  thumbnailUrl: dev_kepler.png
   devTeam: true
   social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008488698005"}
-    - {name: "github", link: "https://github.com/gomjellie"}
+    - {name: "facebook", link: "https://www.facebook.com/seonggwang.gwon"}
 
 -
   id: 10
   name: "황태관"
   surname: "(Ethan)"
   title: "Backend Engineer"
-  thumbnailUrl: dev_limi.png
+  thumbnailUrl: dev_ethan.png
   devTeam: true
   social:
-    - {name: "facebook", link: "https://www.facebook.com/limi.klLee?fref=search"}
+    - {name: "facebook", link: "https://www.facebook.com/hwang.taekwan"}
 
 -
   id: 11
@@ -116,7 +115,7 @@
   id: 12
   name: "김지훈"
   surname: "(Hoon)"
-  title: "Android Developer"
+  title: "Sr. Android Developer"
   thumbnailUrl: dev_jihun.png
   devTeam: true
   social:
@@ -127,7 +126,7 @@
   id: 13
   name: "박진우"
   surname: "(Zinu)"
-  title: "iOS Developer"
+  title: "Sr. iOS Developer"
   thumbnailUrl: dev_zinu.png
   devTeam: true
 
@@ -145,7 +144,7 @@
   id: 15
   name: "신정민"
   surname: "(Albert)"
-  title: "Frontend Developer"
+  title: "Sr. Frontend Developer"
   thumbnailUrl: dev_jungmin.png
   devTeam: true
   social:
@@ -157,7 +156,7 @@
   name: "허경영"
   surname: "(Leo)"
   title: "Frontend Developer"
-  thumbnailUrl: dev_jungmin.png
+  thumbnailUrl: dev_leo.png
   devTeam: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100005356352767"}
@@ -166,7 +165,7 @@
   id: 17
   name: "이준수"
   surname: "(Brian)"
-  title: "Backend & Deep Learning Engineer"
+  title: "Sr. Deep Learning Engineer"
   thumbnailUrl: dev_brian.png
   devTeam: true
 
@@ -202,6 +201,16 @@
 
 -
   id: 21
+  name: "한빈나"
+  surname: "(Ellie)"
+  title: "Sr. Project Manager"
+  thumbnailUrl: cont_binna.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/binna.han.9"}
+
+-
+  id: 22
   name: "박상권"
   surname: "(Ent)"
   title: "Contents Editor"
@@ -209,18 +218,19 @@
   contentsTeam: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/sanggwon.park.9"}
--
-  id: 22
-  name: "한빈나"
-  surname: "(Ellie)"
-  title: "Project Manager"
-  thumbnailUrl: cont_binna.png
-  contentsTeam: true
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/binna.han.9"}
 
 -
   id: 23
+  name: "이강현"
+  surname: "(Leekang)"
+  title: "Project Manager"
+  thumbnailUrl: cont_leekang.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/kanghyun.lee.547"}
+
+-
+  id: 24
   name: "목민주"
   surname: "(Mingming)"
   title: "Contents Designer"
@@ -228,7 +238,7 @@
   contentsTeam: true
 
 -
-  id: 24
+  id: 25
   name: "김윤중"
   surname: "(Joy)"
   title: "Contents Editor"
@@ -238,7 +248,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003249341460"}
 
 -
-  id: 25
+  id: 26
   name: "우선아"
   surname: "(Sun)"
   title: "Contents Editor"
@@ -246,7 +256,7 @@
   contentsTeam: true
 
 -
-  id: 26
+  id: 27
   name: "강은일"
   surname: "(Silver)"
   title: "Contents Editor"
@@ -256,7 +266,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004539883773"}
 
 -
-  id: 27
+  id: 28
   name: "조하은"
   surname: "(Jane)"
   title: "Contents Editor"
@@ -266,21 +276,30 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008626843149"}
 
 -
-  id: 28
+  id: 29
   name: "이아영"
   surname: "(Angie)"
   title: "Contents Editor"
-  thumbnailUrl: cont_haeun.png
-  devTeam: true
+  thumbnailUrl: cont_angie.png
+  contentsTeam: true
   social:
-    - {name: "facebook", link: "https://www.facebook.com/ace.jckim"}
-    - {name: "github", link: "https://github.com/acious"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002766729501"}
 
 -
-  id: 29
+  id: 30
+  name: "하재민"
+  surname: "(Jyassmin)"
+  title: "Contents Editor"
+  thumbnailUrl: cont_jyassmin.png
+  contentsTeam: true
+  social:
+    - {name: "facebook", link: ""}
+
+-
+  id: 31
   name: "김종찬"
   surname: "(Ace)"
-  title: "Strategy & Scrum Director"
+  title: "Strategy & Growth Director"
   thumbnailUrl: dev_ace.png
   strategyTeam: true
   social:
