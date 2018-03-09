@@ -144,7 +144,7 @@ ticketsOffers:
   ticketsNumber: ""
   buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
   buyButtonText: "Apply Now"
-  ticketContentList: ["[필수조건]<br>- Mac을 가지고 있으며, Android, iOS 플랫폼에 적합하고 유저 친화적인 UI 디자인을 작업해주실 분.<br>- Sketch 혹은 Adobe 디자인 툴에 대한 경험은 필수.<br>- 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항]<br>- Google의 Material Design, Apple의 Human Interface Guidline, Facebook의 Origami Design 등 산업에서 연구하고 활용되는 UI 가이드라인을 학습하고 그것을 서비스 제품에 녹여내고자 하는 의향이 있는 분. <br>- Balsamiq Mockup, ProtoPie, Framer 등 프로토타이핑 툴을 이용해 최근 현업에서 중요시되는 디자인 선 검증 프로세스를 배워보고 서비스에 적용해보고자 하는 의향이 있는 분.", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰(디자인 관련) 진행"]
+  ticketContentList: ["[업무]<br>- Android, iOS, Web에 적합하고 유저 친화적인 UI 디자인을 작업해주실 분.","[필수요구사항]<br>- Sketch 혹은 Adobe 디자인 툴에 대한 경험 보유.<br>- 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항]<br>- Google의 Material Design, Apple의 Human Interface Guidline, Facebook의 Origami Design 등 산업에서 연구하고 활용되는 UI 가이드라인을 학습하고 그것을 서비스 제품에 녹여내고자 하는 의향이 있는 분.", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰(디자인 관련) 진행"]
   validFrom: ""
   validThrough: ""
 ## 이부분이 하이라이팅

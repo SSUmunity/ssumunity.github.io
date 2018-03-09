@@ -244,7 +244,7 @@
   company: "SSUmunity"
   title: "Deep Learning Engineer"
   thumbnailUrl: dev_kichang.png
-  bio: "현재 안드로이드 개발팀 소속이고, 안드로이드를 2년째 개발중입니다. <br>저는 안드로이드 개발을 시작할 때부터 학교에 도움이 될만한 어플을 개발하는것에 관심이 많았습니다.<br> 현재는 안드로이드 뿐만 아니라 오픈소스, 에자일 프로세스등 의 분야에도 관심을 가지고 있습니다."
+  bio: "슈뮤니티에서 딥러닝 파트 엔지니어를 맡고 있습니다.<br>숭실대 학우들에게 적재적소에 가장 필요한 데이터를 제공하는 AI엔진을 만드는것이 저의 목표입니다.<br>현재는 딥러닝, 뿐만 아니라 모바일, 오픈소스, 에자일 프로세스등 의 분야에도 관심을 가지고 있습니다."
   rockstar: true
   ribbon:
     - {abbr: "Farerpath", title: "Farerpath Android Developer", url: "https://github.com/farerpath"}
