@@ -11,7 +11,7 @@ description: "숭실대학교 캠퍼스 라이프를 더 발전시키기위한 �
 baseurl: "/"
 url: "http://ssumunity.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-107854248-1"
+googleAnalyticsTrackingId: "UA-89623874-1"
 googleAnalyticsSiteUrl: "ssumunity.github.io"
 
 # Organizer Info
