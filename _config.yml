@@ -138,13 +138,13 @@ ticketsOffers:
   featured: true
 
  -
-  name: "UI Designer"
+  name: "Frontend Developer"
   price: ""
   priceCurrency: "Preferred Qualifications"
   ticketsNumber: ""
   buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
   buyButtonText: "Apply Now"
-  ticketContentList: ["[업무]<br>- Android, iOS, Web에 적합하고 유저 친화적인 UI 디자인을 작업해주실 분.","[필수요구사항]<br>- Sketch 혹은 Adobe 디자인 툴에 대한 경험 보유.<br>- 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항]<br>- Google의 Material Design, Apple의 Human Interface Guidline, Facebook의 Origami Design 등 산업에서 연구하고 활용되는 UI 가이드라인을 학습하고 그것을 서비스 제품에 녹여내고자 하는 의향이 있는 분.", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰(디자인 관련) 진행"]
+  ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들에게 제공할 서비스의 웹 프론트엔드 개발 및 유지보수.","[필수요구사항]<br>- Html, CSS, Javascript에 대한 기초 지식이 있을 것.<br>- 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항]<br>- Vue, React, Angular2 등 최신 웹 프레임워크를 사용해서 프로젝트를 진행한 경험이 있으신 분.<br>- 자신이 주도적으로 웹 관련 프로젝트를 개발한적이 있으신 분<br>- 오픈소스를 능숙하게 이용하실 자신이 있으신 분<br>- ES6 사양을 이해하고 사용하여 프로젝트를 진행한 경험이 있으신 분.", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행"]
   validFrom: ""
   validThrough: ""
 ## 이부분이 하이라이팅
@@ -152,13 +152,13 @@ ticketsOffers:
   featured: true
 
  -
-  name: "Web Frontend Developer"
+  name: "UI Designer"
   price: ""
   priceCurrency: "Preferred Qualifications"
   ticketsNumber: ""
   buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
   buyButtonText: "Apply Now"
-  ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들에게 제공할 서비스의 웹 프론트엔드 개발 및 유지보수.","[필수요구사항]<br>- Html, CSS, Javascript에 대한 기초 지식이 있을 것.<br>- 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항]<br>- Vue, React, Angular2 등 최신 웹 프레임워크를 사용해서 프로젝트를 진행한 경험이 있으신 분.<br>- 자신이 주도적으로 웹 관련 프로젝트를 개발한적이 있으신 분<br>- 오픈소스를 능숙하게 이용하실 자신이 있으신 분<br>- ES6 사양을 이해하고 사용하여 프로젝트를 진행한 경험이 있으신 분.", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행"]
+  ticketContentList: ["[업무]<br>- Android, iOS, Web에 적합하고 유저 친화적인 UI 디자인을 작업해주실 분.","[필수요구사항]<br>- Sketch 혹은 Adobe 디자인 툴에 대한 경험 보유.<br>- 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항]<br>- Google의 Material Design, Apple의 Human Interface Guidline, Facebook의 Origami Design 등 산업에서 연구하고 활용되는 UI 가이드라인을 학습하고 그것을 서비스 제품에 녹여내고자 하는 의향이 있는 분.", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰(디자인 관련) 진행"]
   validFrom: ""
   validThrough: ""
 ## 이부분이 하이라이팅
