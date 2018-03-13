@@ -151,6 +151,20 @@ ticketsOffers:
   disabled: true
   featured: true
 
+ -
+  name: "Web Frontend Developer"
+  price: ""
+  priceCurrency: "Preferred Qualifications"
+  ticketsNumber: ""
+  buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
+  buyButtonText: "Apply Now"
+  ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들에게 제공할 서비스의 웹 프론트엔드 개발 및 유지보수.","[필수요구사항]<br>- Html, CSS, Javascript에 대한 기초 지식이 있을 것.<br>- 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항]<br>- Vue, React, Angular2 등 최신 웹 프레임워크를 사용해서 프로젝트를 진행한 경험이 있으신 분.<br>- 자신이 주도적으로 웹 관련 프로젝트를 개발한적이 있으신 분<br>- 오픈소스를 능숙하게 이용하실 자신이 있으신 분<br>- ES6 사양을 이해하고 사용하여 프로젝트를 진행한 경험이 있으신 분.", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행"]
+  validFrom: ""
+  validThrough: ""
+## 이부분이 하이라이팅
+  disabled: true
+  featured: true
+
 # Tickets2 Block
 tickets2Title: "컨텐츠팀에서 리쿠르팅 중인 역할"
 tickets2Info: ""
