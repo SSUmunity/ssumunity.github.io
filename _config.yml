@@ -46,7 +46,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "2018 <typeout> Recruit"
-eventDate: "3/9 Fri ~ 3/19 Mon"
+eventDate: "상시모집 중, 하단의 리쿠르팅 내용을 확인하세요."
 typeoutTextValues: '"SSUmunity","슈뮤니티", "Show your energy on"'
 typeoutFallback: "SSUmunuity"
 heroButtons:
@@ -201,18 +201,18 @@ tickets3Title: "운영팀에서 리쿠르팅 중인 역할"
 tickets3Info: ""
 tickets3Offers:
 
- -
-    name: "HR Manager"
-    price: ""
-    priceCurrency: "Preferred Qualifications"
-    ticketsNumber: ""
-    buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
-    buyButtonText: "Apply Now"
-    ticketContentList: ["[업무]<br>- 슈뮤니티 멤버들의 합류와 탈퇴 관리<br>- 복리후생(생일 등 경조사) 관리<br>- 슈뮤니티 컬쳐를 더 좋게 만들어 동기부여를 하기위한 활동 기획", "[우대사항]<br>- 많은 인원이 소속해있는 그룹의 리드를 맡아보신 분<br>- 학생회 간부 출신 학생", "[지원절차]<br>- 서면 인터뷰 이후 대면 인터뷰 진행"]
-    validFrom: ""
-    validThrough: ""
-    disabled: true
-    featured: true
+ # -
+ #    name: "HR Manager"
+ #    price: ""
+ #    priceCurrency: "Preferred Qualifications"
+ #    ticketsNumber: ""
+ #    buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
+ #    buyButtonText: "Apply Now"
+ #    ticketContentList: ["[업무]<br>- 슈뮤니티 멤버들의 합류와 탈퇴 관리<br>- 복리후생(생일 등 경조사) 관리<br>- 슈뮤니티 컬쳐를 더 좋게 만들어 동기부여를 하기위한 활동 기획", "[우대사항]<br>- 많은 인원이 소속해있는 그룹의 리드를 맡아보신 분<br>- 학생회 간부 출신 학생", "[지원절차]<br>- 서면 인터뷰 이후 대면 인터뷰 진행"]
+ #    validFrom: ""
+ #    validThrough: ""
+ #    disabled: true
+ #    featured: true
  -
     name: "Business Operations Manager"
     price: ""

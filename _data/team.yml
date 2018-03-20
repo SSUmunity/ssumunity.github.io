@@ -130,6 +130,7 @@
   devTeam: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/bae.hynebin"}
+    - {name: "github", link: "https://github.com/purplebeen"}
 
 -
   id: 14
