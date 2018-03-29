@@ -60,6 +60,16 @@
 
 -
   id: 7
+  name: "이하은"
+  surname: "(Hani)"
+  title: "Recruiter"
+  thumbnailUrl: oper_hani.png
+  team: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100009015887628"}
+
+-
+  id: 8
   name: "배희라"
   surname: "(Sarah)"
   title: "Accountant"
@@ -69,7 +79,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100007022838202"}
 
 -
-  id: 8
+  id: 9
   name: "이상혁"
   surname: "(Stark)"
   title: "Technical Director"
@@ -80,7 +90,7 @@
     - {name: "github", link: "https://github.com/leesanghyeok"}
 
 -
-  id: 9
+  id: 10
   name: "권성광"
   surname: "(Kepler)"
   title: "Sr. Backend Engineer"
@@ -90,7 +100,7 @@
     - {name: "facebook", link: "https://www.facebook.com/seonggwang.gwon"}
 
 -
-  id: 10
+  id: 11
   name: "최윤호"
   surname: "(Kachu)"
   title: "Backend Engineer"
@@ -101,7 +111,7 @@
     - {name: "github", link: "https://github.com/choiking10"}
 
 -
-  id: 11
+  id: 12
   name: "황태관"
   surname: "(Ethan)"
   title: "Backend Engineer"
@@ -111,7 +121,7 @@
     - {name: "facebook", link: "https://www.facebook.com/hwang.taekwan"}
 
 -
-  id: 12
+  id: 13
   name: "김지훈"
   surname: "(Hoon)"
   title: "Sr. Android Developer"
@@ -122,7 +132,7 @@
     - {name: "github", link: "https://github.com/vagabond95"}
 
 -
-  id: 13
+  id: 14
   name: "배현빈"
   surname: "(Harry)"
   title: "Android Developer"
@@ -133,7 +143,7 @@
     - {name: "github", link: "https://github.com/purplebeen"}
 
 -
-  id: 14
+  id: 15
   name: "박진우"
   surname: "(Zinu)"
   title: "Sr. iOS Developer"
@@ -141,7 +151,7 @@
   devTeam: true
 
 -
-  id: 15
+  id: 16
   name: "지건호"
   surname: ""
   title: "iOS Developer"
@@ -151,7 +161,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100006705828821"}
 
 -
-  id: 16
+  id: 17
   name: "신정민"
   surname: "(Albert)"
   title: "Sr. Frontend Developer"
@@ -162,7 +172,7 @@
     - {name: "github", link: "https://github.com/tirea02"}
 
 -
-  id: 17
+  id: 18
   name: "허경영"
   surname: "(Leo)"
   title: "Frontend Developer"
@@ -172,7 +182,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100005356352767"}
 
 -
-  id: 18
+  id: 19
   name: "이준수"
   surname: "(Brian)"
   title: "Sr. Deep Learning Engineer"
@@ -180,7 +190,7 @@
   devTeam: true
 
 -
-  id: 19
+  id: 20
   name: "양기창"
   surname: "(Jason)"
   title: "Deep Learning Engineer"
@@ -191,7 +201,7 @@
     - {name: "github", link: "https://github.com/gichang-yang"}
 
 -
-  id: 20
+  id: 21
   name: "김태인"
   surname: "(Terry)"
   title: "Android Dev. & UI Designer"
@@ -201,7 +211,7 @@
     - {name: "facebook", link: "https://www.facebook.com/ulnamsong?ref=br_rs"}
 
 -
-  id: 21
+  id: 22
   name: "이기림"
   surname: "(Limi)"
   title: "UX Designer"
@@ -211,7 +221,7 @@
     - {name: "facebook", link: "https://www.facebook.com/limi.klLee?fref=search"}
 
 -
-  id: 22
+  id: 23
   name: "정일화"
   surname: "(ilra)"
   title: "Contents Director"
@@ -221,7 +231,7 @@
     - {name: "facebook", link: "https://www.facebook.com/ilra1la"}
 
 -
-  id: 23
+  id: 24
   name: "한빈나"
   surname: "(Ellie)"
   title: "Sr. Project Manager"
@@ -231,7 +241,7 @@
     - {name: "facebook", link: "https://www.facebook.com/binna.han.9"}
 
 -
-  id: 24
+  id: 25
   name: "박상권"
   surname: "(Ent)"
   title: "Project Manager"
@@ -241,7 +251,7 @@
     - {name: "facebook", link: "https://www.facebook.com/sanggwon.park.9"}
 
 -
-  id: 25
+  id: 26
   name: "이강현"
   surname: "(Leekang)"
   title: "Project Manager"
@@ -251,7 +261,7 @@
     - {name: "facebook", link: "https://www.facebook.com/kanghyun.lee.547"}
 
 -
-  id: 26
+  id: 27
   name: "목민주"
   surname: "(Mingming)"
   title: "Contents Designer"
@@ -259,7 +269,7 @@
   contentsTeam: true
 
 -
-  id: 27
+  id: 28
   name: "김윤중"
   surname: "(Joy)"
   title: "Contents Editor"
@@ -269,7 +279,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003249341460"}
 
 -
-  id: 28
+  id: 29
   name: "우선아"
   surname: "(Sun)"
   title: "Contents Editor"
@@ -277,7 +287,7 @@
   contentsTeam: true
 
 -
-  id: 29
+  id: 30
   name: "강은일"
   surname: "(Silver)"
   title: "Contents Editor"
@@ -287,7 +297,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004539883773"}
 
 -
-  id: 30
+  id: 31
   name: "조하은"
   surname: "(Jane)"
   title: "Contents Editor"
@@ -297,7 +307,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008626843149"}
 
 -
-  id: 31
+  id: 32
   name: "이아영"
   surname: "(Angie)"
   title: "Contents Editor"
@@ -307,7 +317,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002766729501"}
 
 -
-  id: 32
+  id: 33
   name: "하재민"
   surname: "(Jyassmin)"
   title: "Contents Editor"
@@ -317,7 +327,7 @@
     - {name: "facebook", link: ""}
 
 -
-  id: 33
+  id: 34
   name: "김종찬"
   surname: "(Ace)"
   title: "Strategy & Growth Director"
