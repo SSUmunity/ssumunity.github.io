@@ -89,11 +89,14 @@
   name: "이하은(Hani)"
   company: "SSUmunity"
   title: "Recruiter"
-  bio: "안녕하세요! 좀 더 나은 숭실대학교 학우들의 캠퍼스 라이프를 위해 노력하는 슈뮤니티 운영팀 조성준입니다."
+  bio: "슈뮤니티의 클래스와 그 클래스에 맞는 지원자를 찾고 영입하여, 더 멋지고 다양한 일을 해내는 커뮤니티를 만드는 이하은 입니다. 내가 이 학교의 꽤 뛰어난 인재라고 자부하는 분들! 놓치지 않을거에요."
   thumbnailUrl: oper_hani.png
   rockstar: true
   ribbon:
     - {abbr: "KT&G", title: "KT&G 상상프렌즈 8기"}
+    - {abbr: "숭실대 경영학부 소모임 올웨이즈", title: "숭실대 경영학부 소모임 올웨이즈 부회장"}
+    - {abbr: "세이울 관악팀", title: "세이울 관악팀 팀장"}
+
   social:
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100009015887628"}
 
