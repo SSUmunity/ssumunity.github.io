@@ -191,7 +191,8 @@ tickets3Offers:
     ticketsNumber: ""
     buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
     buyButtonText: "Apply Now"
-    ticketContentList: ["[업무]<br>- 슈뮤니티에 캠퍼스 광고를 유치시키고 외부에게 사업을 제안하는 일<br>- 슈뮤니티가 많은 외부 단체와의 협력을 유도하는 일.", "[우대사항]<br>- 창업동아리의 활동 경험이 있으신 분<br>- 문서작업에 대한 많은 경험치가 있으신 분<br>- 조직에 대한 이해력이 충분하고, 그것을 잘 설명할 수 있는 분", "[지원절차]<br>- 서면 인터뷰 이후 대면 인터뷰 진행"]
+    ticketContentList: ["[업무]<br>- 숭실대 학우들의 더 나은 캠퍼스 라이프를 위한 행사를 기획하는 일<br>- 슈뮤니티에 캠퍼스 광고를 유치시키고 외부에게 사업을 제안하는 일<br>- 슈뮤니티가 많은 외부 단체와의 협력을 유도하는 일
+", "[우대사항]<br>- 창업동아리의 활동 경험이 있으신 분<br>- 문서작업에 대한 많은 경험치가 있으신 분<br>- 조직에 대한 이해력이 충분하고, 그것을 잘 설명할 수 있는 분", "[지원절차]<br>- 서면 인터뷰 이후 대면 인터뷰 진행"]
     validFrom: ""
     validThrough: ""
     disabled: true
@@ -208,20 +209,10 @@ tickets4Offers:
     ticketsNumber: ""
     buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
     buyButtonText: "Apply Now"
-    ticketContentList: ["[업무]<br>- Android, iOS, Web에 적합하고 유저 친화적인 UI 디자인을 작업해주실 분.","[필수 조건]<br>- Sketch 혹은 Adobe 디자인 툴에 대한 경험 보유.<br>- 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항]<br>- Google의 Material Design, Apple의 Human Interface Guidline, Facebook의 Origami Design 등 산업에서 연구하고 활용되는 UI 가이드라인을 학습하고 그것을 서비스 제품에 녹여내고자 하는 의향이 있는 분.", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 인터뷰(디자인 관련) 진행"]
-    validFrom: ""
-    validThrough: ""
-    disabled: true
-    featured: true
-
- -
-    name: "Contents Designer"
-    price: ""
-    priceCurrency: "Preferred Qualifications"
-    ticketsNumber: ""
-    buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
-    buyButtonText: "Apply Now"
-    ticketContentList: ["[필수조건]<br>- 포토샵, 일러스트 등 디자인 툴을 능숙하게 다루실 수 있으며, 디자인에 대한 이론적 이해도가 높으신 분.<br>- 컨텐츠 제작 및 디자인에 관심이 많으신 분.", "[우대사항]<br>- SNS 컨텐츠 관련 직종으로 취직을 희망하며, SNS 컨텐츠 관련한 제작 경험이 있으신 분.<br>- 카드뉴스, 포스터, 로고 등의 다양한 종류의 디자인 관련 경험이 풍부하신 분", "[지원절차]<br>- 서면 인터뷰(디자인 관련 포트폴리오 1부 제출) 이후 통과된 분에 한해 대면 인터뷰 진행"]
+    ticketContentList: ["[업무]<br>- 숭실대학교 캠퍼스 생활의 현상 파악과 문제 도출 및 해결<br>- 슈뮤니티 서비스 UX 설계 및 Prototyping
+","[필수 조건]<br>- 문제를 이해하고 기회영역을 포착하여 솔루션을 도출할 수 있는 능력<br>- 문제 해결을 시각적으로 표현할 수 있는 능력<br>- 유저들이 쉽게 이해하고 효과적으로 이용할 수 있는 UI화면 구성 능력<br>- Sketch 또는 Adobe 디자인 툴을 통한 App / Web UI 디자인
+", "[우대사항]<br>- 능동적인 참여로 개발팀과 효율적인 커뮤니케이션을 지향하는 분<br>- 모르는 것에 부끄러움을 느끼지 않고 적극적으로 배우는 것을 좋아하시는 분<br>- 숭실대학교를 자신의 디자인으로 긍정적으로 변화시키고 싶으신 분
+", "[지원 절차]<br>- 서면 인터뷰(포트폴리오 & 지원서) 이후 통과된 지원자에 한해 대면 인터뷰 진행"]
     validFrom: ""
     validThrough: ""
     disabled: true
