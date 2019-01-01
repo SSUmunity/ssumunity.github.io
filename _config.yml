@@ -130,38 +130,38 @@ ticketsOffers:
   ticketsNumber: ""
   buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
   buyButtonText: "Apply Now"
-  ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들에게 제공하는 소프트웨어의 개발 및 유지보수","[필수 조건]<br>- 소프트웨어 엔지니어로 성장하고 싶은 목표가 있는 학생.<br>- 양질의 소프트웨어 개발 경험을 거부감없이 받아들이고 자신의 경험치로 만들 수 있는 분.<br>- 전공 / 학년 불문", "[우대사항]<br>- 객체지향의 개념을 이해하고, Git을 활용한 협업 개발을 경험해본 적이 있는 분<br>- 자신의 개발 분야를 스스로 결정하시고 그것을 학습 및 수련하고 계신 분", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 지원자에 한해 대면 기술 인터뷰 진행"]
+  ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들에게 제공하는 소프트웨어의 개발 및 유지보수","[배울 수 있는 점]<br>- 간단한 토이 프로젝트로 프로젝트의 시작부터 끝까지 경험할 수 있음", "[필수 조건]<br>- 소프트웨어 엔지니어로 성장하고 싶은 분<br>- 양질의 소프트웨어 개발 경험을 거부감없이 받아들이고 자신의 경험치로 만들 수 있는 분.<br>- 학교 과제 외 프로젝트를 진행한 경험이 있는 분", "[우대사항]<br>- 객체지향의 개념을 알고 있는 분<br>- Git 을 활용한 협업을 진행해 보신 분<br>- 자신의 개발 영역을 결정했고, 학습 및 수련중이신 분", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 지원자에 한해 대면 기술 인터뷰 진행<br>- Github 주소 제출 (선택)<br>- 본인이 진행한 프로젝트에서 공개할 수 있는 모든 것(선택)"]
   validFrom: ""
   validThrough: ""
   disabled: true
   featured: true
 
-#  -
-#   name: "iOS Developer"
-#   price: ""
-#   priceCurrency: "Preferred Qualifications"
-#   ticketsNumber: ""
-#   buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
-#   buyButtonText: "Apply Now"
-#   ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들에게 제공할 iOS 서비스의 개발 및 유지보수.","[필수 조건]<br>- Mac을 가지고 있으며, 소프트웨어 개발자를 목표로 iOS 개발을 배워보고 숭실대학교 학생들을 위한 서비스를 만들어보고 싶은 분.<br>- 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항]<br>- 소프트웨어 개발의 생산성을 높여주는 버전 관리, 애자일 등의 프로세스를 이용해 효율적인 개발과 팀 협업을 진행해보고 배울 의향이 있는 분.<br>- 디자이너와의 매끄러운 협업이 가능하고 서비스를 사용하는 유저의 입장을 생각하면서 개발을 하시는 분", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행"]
-#   validFrom: ""
-#   validThrough: ""
-#   disabled: true
-#   featured: true
-#
-#  -
-#   name: "Frontend Developer"
-#   price: ""
-#   priceCurrency: "Preferred Qualifications"
-#   ticketsNumber: ""
-#   buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
-#   buyButtonText: "Apply Now"
-#   ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들에게 제공할 웹 서비스의 개발 및 유지보수.","[필수 조건]<br>- Html, CSS, Javascript에 대한 기초 지식이 있을 것.<br>- 남학생은 꼭 병역문제가 해결 된 상태이어야 함.", "[우대사항]<br>- Vue, React, Angular2 등 최신 웹 프레임워크를 사용해서 프로젝트를 진행한 경험이 있으신 분.<br>- 자신이 주도적으로 웹 관련 프로젝트를 개발한적이 있으신 분<br>- 오픈소스를 능숙하게 이용하실 자신이 있으신 분<br>- ES6 사양을 이해하고 사용하여 프로젝트를 진행한 경험이 있으신 분.", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행"]
-#   validFrom: ""
-#   validThrough: ""
-# ## 이부분이 하이라이팅
-#   disabled: true
-#   featured: true
+ -
+  name: "iOS Developer"
+  price: ""
+  priceCurrency: "Preferred Qualifications"
+  ticketsNumber: ""
+  buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
+  buyButtonText: "Apply Now"
+  ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들에게 제공할 iOS 서비스의 개발 및 유지보수.","[필수 조건]<br>- iOS 개발 환경이 구축된 데스크탑이나 노트북을 가지고 계신 분<br>- SW Engineer 를 목표로 iOS 개발 경험을 쌓고 싶으신 분<br>- 숭실대학교 학생들을 위한 서비스를 만들어 보고 싶으신 분", "[우대사항]<br>- zeplin, sketch 등의 툴로 디자이너와 협업해 본 경험이 있으신 분<br>- MVC, MVP, MVVM 아키텍쳐 패턴에 이해가 있으신 분<br>- REST API 를 다뤄본 경험이 있으신 분", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행<br>- Github 주소 제출 (선택)<br>- 본인이 진행한 프로젝트에서 공개할 수 있는 모든 것(선택)"]
+  validFrom: ""
+  validThrough: ""
+  disabled: true
+  featured: true
+
+ -
+  name: "Frontend Developer"
+  price: ""
+  priceCurrency: "Preferred Qualifications"
+  ticketsNumber: ""
+  buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
+  buyButtonText: "Apply Now"
+  ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들을 대상으로 신규 개발할 Web Frontend 개발 및 유지 보수","[필수 조건]<br>- HTML, CSS, Javascript 에 대한 기초 지식이 있으신 분<br>- SW Engineer 를 목표로 Web Frontend 개발 경험을 쌓고 싶으신 분<br>- 숭실대학교 학생들을 위한 서비스를 만들어 보고 싶으신 분", "[우대사항]<br>- Vue, React, Angular2 등 최신 웹 프레임워크를 사용해서 프로젝트를 진행한 경험이 있으신 분.<br>- ES6+ 스펙을 이해하고, Babel 을 이용하여 transpiling 경험이 있으신 분<br>- 운영 환경에서 webpack 을 사용해 보신 분", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행<br>- Github 주소 제출 (선택)<br>- 본인이 진행한 프로젝트에서 공개할 수 있는 모든 것(선택)"]
+  validFrom: ""
+  validThrough: ""
+## 이부분이 하이라이팅
+  disabled: true
+  featured: true
 
 # Tickets2 Block
 tickets2Title: "SSUmunity Labs에서 리쿠르팅 중인 역할"
@@ -174,7 +174,7 @@ tickets2Offers:
   ticketsNumber: ""
   buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
   buyButtonText: "Apply Now"
-  ticketContentList: ["[업무]<br>- 숭실대학교 커뮤니티 서비스에 필요한 머신러닝 서비스 개발<br>- 숭실대학교 학우들이 필요한 IT서비스에 관련된 머신러닝 서비스 연구 및 개발", "[배울 수 있는 점]<br>- 혼자 짜거나 막무가내식 개발이 아니라 클라이언트/백엔드 같은 개발단이 유기적으로 합을 맞춰나가는 프로세스를 경험하실 수 있습니다<br>- 네이버, 카카오, LG, 삼성 같은 현업에 있었거나 현재 재직중인 개발팀 멤버들과 함께 성장의 발판이 되실 수 있습니다<br>- 숭실대 유일의 학우들을 위한 머신러닝 서비스 연구/ 개발 조직에서 여러분의 역량을 성장시킬수 있습니다", "[필수 조건]<br>- Pandas, Urllib, BeautifulSoup, Numpy중 한가지 이상의 라이브러리 사용 경험이 있으신 분<br>- Tensorflow, Pytorch 중 한가지 이상의 라이브러리를 사용해 본 경험이 있으신 분<br>- Mnist, Image-net같은 전처리된 데이터 이외의 데이터를 활용한 머신러닝 관련 프로젝트 경험이 있으신 분<br>- 수학적 기초지식이 있으신 분", "[우대사항]<br>- 3학년 이하 이신 분<br>- 병역문제가 해결되신 분<br>- NIPS, CVPR 등의 최신 논문 동향을 알고계신 분<br>- Git을 활용한 코드리뷰 혹은, 클린한 코드의 구현에 관심이 있으신분", "[지원절차]<br>- <br>- 서면 인터뷰(포트폴리오 & 지원서) 이후 통과된 지원자에 한해 대면 인터뷰 진행"]
+  ticketContentList: ["[업무]<br>- 숭실대학교 커뮤니티 서비스에 필요한 머신러닝 서비스 개발<br>- 숭실대학교 학우들이 필요한 IT서비스에 관련된 머신러닝 서비스 연구 및 개발", "[배울 수 있는 점]<br>- 혼자 짜거나 막무가내식 개발이 아니라 클라이언트/백엔드 같은 개발단이 유기적으로 합을 맞춰나가는 프로세스를 경험하실 수 있습니다<br>- 네이버, 카카오, LG, 삼성 같은 현업에 있었거나 현재 재직중인 개발팀 멤버들과 함께 성장의 발판이 되실 수 있습니다<br>- 숭실대 유일의 학우들을 위한 머신러닝 서비스 연구/ 개발 조직에서 여러분의 역량을 성장시킬수 있습니다", "[필수 조건]<br>- Pandas, Urllib, BeautifulSoup, Numpy중 한가지 이상의 라이브러리 사용 경험이 있으신 분<br>- Tensorflow, Pytorch 중 한가지 이상의 라이브러리를 사용해 본 경험이 있으신 분<br>- Mnist, Image-net같은 전처리된 데이터 이외의 데이터를 활용한 머신러닝 관련 프로젝트 경험이 있으신 분<br>- 수학적 기초지식이 있으신 분", "[우대사항]<br>- 3학년 이하 이신 분<br>- 병역문제가 해결되신 분<br>- NIPS, CVPR 등의 최신 논문 동향을 알고계신 분<br>- Git을 활용한 코드리뷰 혹은, 클린한 코드의 구현에 관심이 있으신분", "[지원절차]<br>- 서면 인터뷰(포트폴리오 & 지원서) 이후 통과된 지원자에 한해 대면 인터뷰 진행"]
   validFrom: ""
   validThrough: ""
   disabled: true
