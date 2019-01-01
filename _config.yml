@@ -164,17 +164,17 @@ ticketsOffers:
 #   featured: true
 
 # Tickets2 Block
-tickets2Title: "컨텐츠팀에서 리쿠르팅 중인 역할"
+tickets2Title: "SSUmunity Labs에서 리쿠르팅 중인 역할"
 tickets2Info: ""
 tickets2Offers:
  -
-  name: "Streaming Contents PD"
+  name: "머신러닝 개발자 / Researcher"
   price: ""
   priceCurrency: "Preferred Qualifications"
   ticketsNumber: ""
   buyButtonLink: "https://goo.gl/forms/cMrpgZOP9Myl6ijU2"
   buyButtonText: "Apply Now"
-  ticketContentList: ["[필수조건]<br>- 영상 컨텐츠에 관심이 많아 다양한 채널의 영상컨텐츠들을 접해오신 분.<br>- DSLR을 활용한 기본적인 영상 촬영과 편집이 가능하신 분.", "[우대사항]<br>- 프리미어, 애프터이펙트와 같은 영상 툴 능숙자<br>- 영상 관련 SNS페이지 및 유튜브 채널 운영 경험이 있으신 분<br>- 영상컨텐츠를 직접 기획, 제작해 본 경험이 있으신 분.", "[지원절차]<br>- 서면 인터뷰 (영상 관련 포트폴리오 자유양식으로 1부 제출) 이후 통과된 분에 한해 대면 인터뷰 진행<br>"]
+  ticketContentList: ["[업무]<br>- 숭실대학교 커뮤니티 서비스에 필요한 머신러닝 서비스 개발<br>- 숭실대학교 학우들이 필요한 IT서비스에 관련된 머신러닝 서비스 연구 및 개발", "[배울 수 있는 점]<br>- 혼자 짜거나 막무가내식 개발이 아니라 클라이언트/백엔드 같은 개발단이 유기적으로 합을 맞춰나가는 프로세스를 경험하실 수 있습니다<br>- 네이버, 카카오, LG, 삼성 같은 현업에 있었거나 현재 재직중인 개발팀 멤버들과 함께 성장의 발판이 되실 수 있습니다<br>- 숭실대 유일의 학우들을 위한 머신러닝 서비스 연구/ 개발 조직에서 여러분의 역량을 성장시킬수 있습니다", "[필수 조건]<br>- Pandas, Urllib, BeautifulSoup, Numpy중 한가지 이상의 라이브러리 사용 경험이 있으신 분<br>- Tensorflow, Pytorch 중 한가지 이상의 라이브러리를 사용해 본 경험이 있으신 분<br>- Mnist, Image-net같은 전처리된 데이터 이외의 데이터를 활용한 머신러닝 관련 프로젝트 경험이 있으신 분<br>- 수학적 기초지식이 있으신 분", "[우대사항]<br>- 3학년 이하 이신 분<br>- 병역문제가 해결되신 분<br>- NIPS, CVPR 등의 최신 논문 동향을 알고계신 분<br>- Git을 활용한 코드리뷰 혹은, 클린한 코드의 구현에 관심이 있으신분", "[지원절차]<br>- <br>- 서면 인터뷰(포트폴리오 & 지원서) 이후 통과된 지원자에 한해 대면 인터뷰 진행"]
   validFrom: ""
   validThrough: ""
   disabled: true
