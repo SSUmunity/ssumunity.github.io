@@ -43,7 +43,7 @@
   surname: "(Ace)"
   title: "Android TL Developer"
   thumbnailUrl: dev_ace.png
-  strategyTeam: true
+  devTeam: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/ace.jckim"}
     - {name: "github", link: "https://github.com/acious"}
