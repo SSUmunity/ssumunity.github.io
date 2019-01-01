@@ -124,7 +124,7 @@ ticketsTitle: "개발팀에서 리쿠르팅 중인 역할"
 ticketsInfo: ""
 ticketsOffers:
  -
-  name: "SW Engineer - Freshman"
+  name: "SW Engineer(신입)"
   price: ""
   priceCurrency: "Preferred Qualifications"
   ticketsNumber: ""
@@ -133,8 +133,8 @@ ticketsOffers:
   ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들에게 제공하는 소프트웨어의 개발 및 유지보수","[배울 수 있는 점]<br>- 간단한 토이 프로젝트로 프로젝트의 시작부터 끝까지 경험할 수 있음", "[필수 조건]<br>- 소프트웨어 엔지니어로 성장하고 싶은 분<br>- 양질의 소프트웨어 개발 경험을 거부감없이 받아들이고 자신의 경험치로 만들 수 있는 분.<br>- 학교 과제 외 프로젝트를 진행한 경험이 있는 분", "[우대사항]<br>- 객체지향의 개념을 알고 있는 분<br>- Git 을 활용한 협업을 진행해 보신 분<br>- 자신의 개발 영역을 결정했고, 학습 및 수련중이신 분", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 지원자에 한해 대면 기술 인터뷰 진행<br>- Github 주소 제출 (선택)<br>- 본인이 진행한 프로젝트에서 공개할 수 있는 모든 것(선택)"]
   validFrom: ""
   validThrough: ""
-  disabled: true
-  featured: true
+  # disabled: true
+  # featured: true
 
  -
   name: "iOS Developer"
@@ -159,9 +159,9 @@ ticketsOffers:
   ticketContentList: ["[업무]<br>- 슈뮤니티에서 학우들을 대상으로 신규 개발할 Web Frontend 개발 및 유지 보수","[필수 조건]<br>- HTML, CSS, Javascript 에 대한 기초 지식이 있으신 분<br>- SW Engineer 를 목표로 Web Frontend 개발 경험을 쌓고 싶으신 분<br>- 숭실대학교 학생들을 위한 서비스를 만들어 보고 싶으신 분", "[우대사항]<br>- Vue, React, Angular2 등 최신 웹 프레임워크를 사용해서 프로젝트를 진행한 경험이 있으신 분.<br>- ES6+ 스펙을 이해하고, Babel 을 이용하여 transpiling 경험이 있으신 분<br>- 운영 환경에서 webpack 을 사용해 보신 분", "[지원 절차]<br>- 서면 인터뷰 이후 통과된 분에 한해 대면 기술 인터뷰 진행<br>- Github 주소 제출 (선택)<br>- 본인이 진행한 프로젝트에서 공개할 수 있는 모든 것(선택)"]
   validFrom: ""
   validThrough: ""
-## 이부분이 하이라이팅
-  disabled: true
-  featured: true
+# ## 이부분이 하이라이팅
+#   disabled: true
+#   featured: true
 
 # Tickets2 Block
 tickets2Title: "SSUmunity Labs에서 리쿠르팅 중인 역할"
