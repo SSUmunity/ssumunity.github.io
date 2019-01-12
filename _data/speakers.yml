@@ -46,6 +46,18 @@
 
 -
   id: 4
+  name: "이민규(Manzi)"
+  company: "SSUmunity"
+  title: "Business Operation Manager"
+  bio: "혁신적인 학교생활을 꿈꾸는 이민규입니다. 다양한 프로젝트 경험을 통해 성장해 혁신적인 학교생활을 하는것을 보여드리도록 하겠습니다!"
+  thumbnailUrl: oper_hani.png
+  rockstar: true
+  ribbon:
+    - {abbr: "비영리 단체 Manzi", title: "비영리 단체 Manzi 단체장"}
+  social:
+
+-
+  id: 5
   name: "황태관(Ethan)"
   company: "SSUmunity"
   title: "Backend Engineer"
@@ -57,7 +69,7 @@
     - {name: "facebook", link: "https://www.facebook.com/hwang.taekwan"}
 
 -
-  id: 5
+  id: 6
   name: "김종찬(Ace)"
   company: "SSUmunity"
   title: "Android TL Developer"
@@ -77,7 +89,7 @@
     - {name: "github", link: "https://github.com/acious"}
 
 -
-  id: 6
+  id: 7
   name: "배현빈(Harry)"
   company: "SSUmunity"
   title: "Android Developer"
@@ -90,32 +102,52 @@
     - {name: "github", link: "https://github.com/purplebeen"}
 
 -
-  id: 7
+  id: 8
   name: "양기창(Jason)"
   company: "SSUmunity"
   title: "SSUmunity Labs Leader"
   thumbnailUrl: dev_kichang.png
-  bio: "슈뮤니티에서 딥러닝 파트 엔지니어를 맡고 있습니다.<br>숭실대 학우들에게 적재적소에 가장 필요한 데이터를 제공하는 AI엔진을 만드는것이 저의 목표입니다.<br>현재는 딥러닝, 뿐만 아니라 모바일, 오픈소스, 에자일 프로세스등 의 분야에도 관심을 가지고 있습니다."
+  bio: "슈뮤니티 랩스(리서치팀)에서 머신러닝 엔지니어 겸 리더를 맡고 있습니다.<br>숭실대 학우들에게 적재적소에 가장 필요한 데이터를 제공하는 AI엔진을 만드는 것과 교내에 머신러닝 개발문화를 확산시키는 것이 저의 목표입니다.<br>머신러닝뿐만 아니라 모바일, 오픈소스, 에자일 프로세스등 의 분야에도 관심을 가지고 있습니다."
   rockstar: true
   ribbon:
-    - {abbr: "Farerpath", title: "Farerpath Android Developer", url: "https://github.com/farerpath"}
   social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008625183805"}
-    - {name: "github", link: "https://github.com/gichang-yang"}
-
--
-  id: 8
-  name: "이준수(Brian)"
-  company: "SSUmunity"
-  title: "SSUmunity Labs Advisor"
-  bio: ""
-  thumbnailUrl: dev_brian.png
-  rockstar: true
-  ribbon:
-    - {abbr: "SW Maestro", title: "SW Maestro 7th Mentee", url: "http://www.swmaestro.kr/web/web/main.do"}
+    - {name: "facebook", link: "https://www.facebook.com/DEVkichang"}
+    - {name: "github", link: "https://github.com/jason9693"}
 
 -
   id: 9
+  name: "장원준(Kyle)"
+  company: "SSUmunity"
+  title: "SSUmunity Labs ML Researcher"
+  thumbnailUrl: dev_kichang.png
+  bio: "새로운 기술을 접하면 해당 기술에 대해 열정적으로 받아들이며 처음 접한 기술을 잘 소화해 내는 마법같은 능력이 있습니다.<br>Back-end, Data engineering 에 관심이 많습니다."
+  rockstar: true
+  ribbon:
+    - {abbr: "SW Maestro", title: "Software maestro 9th 수료생", url: "http://www.swmaestro.kr/web/web/main.do"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/strutive07"}
+    - {name: "github", link: "https://github.com/strutive07"}
+
+-
+  id: 10
+  name: "이준수(Brian)"
+  company: "SSUmunity Labs"
+  title: "SSUmunity Labs Advisor"
+  bio: "슈뮤니티 머신러닝 / 딥러닝 LAB 어드바이저로 활동하고 있습니다.<br>현업에서 일하면서 배우는 다양한 지식들을, 미래를 꿈꾸는 후배들과 나누고자 합니다.<br>학부생이더라도 인공지능으로 바꿀 캠퍼스라이프를 상상하는 당찬분들이 함께했으면 좋겠습니다."
+  thumbnailUrl: dev_brian.png
+  rockstar: true
+  ribbon:
+    - {abbr: "Resume", title: "Resume", url: "https://drive.google.com/file/d/1e4lRTlCpaTHmto6e78gh6Hg2CR_E7DC9/view"}
+    - {abbr: "NAVER Webtoon", title: "NAVER Webtoon AI Research", url: "https://webtoonscorp.com/en/"}
+    - {abbr: "NAVER", title: "NAVER Papago OCR Research Intern", url: "https://papago.naver.com/"}
+    - {abbr: "Xinapse.AI", title: "Xinapse.AI NLP Research Intern", url: "http://www.xinapse.ai/"}
+    - {abbr: "SW Maestro", title: "Software Maestro 7th", url: "https://www.facebook.com/swmaestro/"}
+
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ljs93kr?ref=bookmarks"}
+    - {name: "github", link: "https://github.com/SSUHan"}
+-
+  id: 11
   name: "이기림(Limi)"
   company: "SSUmunity"
   title: "UX Designer"

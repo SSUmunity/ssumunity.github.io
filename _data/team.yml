@@ -30,6 +30,15 @@
 
 -
   id: 4
+  name: "이민규"
+  surname: "(Manzi)"
+  title: "Business Operation Manager"
+  thumbnailUrl: oper_hani.png
+  team: true
+  social:
+
+-
+  id: 5
   name: "황태관"
   surname: "(Ethan)"
   title: "Technical Director"
@@ -38,7 +47,7 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/hwang.taekwan"}
 -
-  id: 5
+  id: 6
   name: "김종찬"
   surname: "(Ace)"
   title: "Android TL Developer"
@@ -49,7 +58,7 @@
     - {name: "github", link: "https://github.com/acious"}
 
 -
-  id: 6
+  id: 7
   name: "배현빈"
   surname: "(Harry)"
   title: "Android Developer"
@@ -60,7 +69,7 @@
     - {name: "github", link: "https://github.com/purplebeen"}
 
 -
-  id: 7
+  id: 8
   name: "양기창"
   surname: "(Jason)"
   title: "SSUmunity Labs Leader"
@@ -71,7 +80,18 @@
     - {name: "github", link: "https://github.com/gichang-yang"}
 
 -
-  id: 8
+  id: 9
+  name: "장원준"
+  surname: "(Kyle)"
+  title: "SSUmunity Labs ML Researcher"
+  thumbnailUrl: dev_kichang.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/strutive07"}
+    - {name: "github", link: "https://github.com/strutive07"}
+
+-
+  id: 10
   name: "이준수"
   surname: "(Brian)"
   title: "SSUmunity Labs Advisor"
@@ -79,7 +99,7 @@
   devTeam: true
 
 -
-  id: 9
+  id: 11
   name: "이기림"
   surname: "(Limi)"
   title: "UX Designer"
