@@ -33,7 +33,7 @@
   name: "이민규"
   surname: "(Manzi)"
   title: "Business Operation Manager"
-  thumbnailUrl: oper_hani.png
+  thumbnailUrl: oper_manzi.png
   team: true
   social:
 
@@ -84,7 +84,7 @@
   name: "장원준"
   surname: "(Kyle)"
   title: "SSUmunity Labs ML Researcher"
-  thumbnailUrl: dev_kichang.png
+  thumbnailUrl: res_kyle.png
   devTeam: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/strutive07"}
