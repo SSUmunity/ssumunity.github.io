@@ -73,8 +73,8 @@
   name: "양기창"
   surname: "(Jason)"
   title: "SSUmunity Labs Leader"
-  thumbnailUrl: dev_kichang.png
-  devTeam: true
+  thumbnailUrl: res_kichang.png
+  researchTeam: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008625183805"}
     - {name: "github", link: "https://github.com/gichang-yang"}
@@ -85,7 +85,7 @@
   surname: "(Kyle)"
   title: "SSUmunity Labs ML Researcher"
   thumbnailUrl: res_kyle.png
-  devTeam: true
+  researchTeam: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/strutive07"}
     - {name: "github", link: "https://github.com/strutive07"}
@@ -95,15 +95,41 @@
   name: "이준수"
   surname: "(Brian)"
   title: "SSUmunity Labs Advisor"
-  thumbnailUrl: dev_brian.png
-  devTeam: true
+  thumbnailUrl: res_brian.png
+  researchTeam: true
 
 -
   id: 11
   name: "이기림"
   surname: "(Limi)"
   title: "UX Designer"
-  thumbnailUrl: dev_limi.png
+  thumbnailUrl: design_limi.png
   designTeam: true
   social:
-    - {name: "facebook", link: "https://www.facebook.com/limi.klLee?fref=search"}
+
+-
+  id: 12
+  name: "이왕재"
+  surname: "(King)"
+  title: "UI Designer"
+  thumbnailUrl: design_king.png
+  designTeam: true
+  social:
+
+-
+  id: 13
+  name: "신재서"
+  surname: "(Jae)"
+  title: "UI Designer"
+  thumbnailUrl: design_jae.png
+  designTeam: true
+  social:
+
+-
+  id: 14
+  name: "목민주"
+  surname: "(Ming)"
+  title: "UI Designer"
+  thumbnailUrl: design_ming.png
+  designTeam: true
+  social:

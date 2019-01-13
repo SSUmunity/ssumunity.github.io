@@ -106,7 +106,7 @@
   name: "양기창(Jason)"
   company: "SSUmunity"
   title: "SSUmunity Labs Leader"
-  thumbnailUrl: dev_kichang.png
+  thumbnailUrl: res_kichang.png
   bio: "슈뮤니티 랩스(리서치팀)에서 머신러닝 엔지니어 겸 리더를 맡고 있습니다.<br>숭실대 학우들에게 적재적소에 가장 필요한 데이터를 제공하는 AI엔진을 만드는 것과 교내에 머신러닝 개발문화를 확산시키는 것이 저의 목표입니다.<br>머신러닝뿐만 아니라 모바일, 오픈소스, 에자일 프로세스등 의 분야에도 관심을 가지고 있습니다."
   rockstar: true
   ribbon:
@@ -134,7 +134,7 @@
   company: "SSUmunity Labs"
   title: "SSUmunity Labs Advisor"
   bio: "슈뮤니티 머신러닝 / 딥러닝 LAB 어드바이저로 활동하고 있습니다.<br>현업에서 일하면서 배우는 다양한 지식들을, 미래를 꿈꾸는 후배들과 나누고자 합니다.<br>학부생이더라도 인공지능으로 바꿀 캠퍼스라이프를 상상하는 당찬분들이 함께했으면 좋겠습니다."
-  thumbnailUrl: dev_brian.png
+  thumbnailUrl: res_brian.png
   rockstar: true
   ribbon:
     - {abbr: "Resume", title: "Resume", url: "https://drive.google.com/file/d/1e4lRTlCpaTHmto6e78gh6Hg2CR_E7DC9/view"}
@@ -146,15 +146,56 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/ljs93kr?ref=bookmarks"}
     - {name: "github", link: "https://github.com/SSUHan"}
+
 -
   id: 11
   name: "이기림(Limi)"
   company: "SSUmunity"
   title: "UX Designer"
   bio: "안녕하세요 이기림입니다. UX디자이너로서, 학우 여러분들이 숭실대에서 최적의 경험을 할 수 있도록 노력하겠습니다. <br>잊지 못 할 경험, 함께 만들어가요."
-  thumbnailUrl: dev_limi.png
+  thumbnailUrl: design_limi.png
   rockstar: true
   ribbon:
-    - {abbr: "소공전멸망팀", title: "숭실대학교 소프트웨어공모전 소공전멸망팀(학장상, 2등위)"}
+    - {abbr: "Samsung design membership ", title: "Samsung design membership 26th UX"}
+    - {abbr: "VoyagerX", title: "VoyagerX UX intern"}
   social:
-    - {name: "facebook", link: "https://www.facebook.com/limi.klLee?fref=search"}
+
+-
+  id: 12
+  name: "이왕재(King)"
+  company: "SSUmunity"
+  title: "UI Designer"
+  bio: ""
+  thumbnailUrl: design_king.png
+  rockstar: true
+  ribbon:
+    - {abbr: "벤처중소기업학과", title: "벤처중소기업학과"}
+    - {abbr: "비전공자", title: "비전공자"}
+    - {abbr: "디자인 꿈나무", title: "디자인 꿈나무"}
+    - {abbr: "주한미국대사관", title: "주한미국대사관 웹디자이너 14개월 근무"}
+    - {abbr: "피피티 노예 2년", title: "피피티 노예 2년"}
+  social:
+
+-
+  id: 13
+  name: "신재서(Jae)"
+  company: "SSUmunity"
+  title: "UI Designer"
+  bio: "디자인을 합니다. 모두에게 도움이 될 디자이너가 되려 노력하고 있습니다.<br>Love yourself, peace XX"
+  thumbnailUrl: design_jae.png
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 14
+  name: "목민주(Ming)"
+  company: "SSUmunity"
+  title: "UI Designer"
+  bio: "모두에게 편리한 서비스를 제작합니다. 디자인과 개발분야 모두 어우르는 사람이 되고자 노력하고 있습니다."
+  thumbnailUrl: design_ming.png
+  rockstar: true
+  ribbon:
+    - {abbr: "Artifriends", title: "Artifriends Designer"}
+    - {abbr: "Imago", title: "Imago UI Designer"}
+  social:
