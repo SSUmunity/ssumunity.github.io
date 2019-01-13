@@ -32,7 +32,7 @@
   id: 4
   name: "이민규"
   surname: "(Manzi)"
-  title: "Business Operation Manager"
+  title: "Business Operations Manager"
   thumbnailUrl: oper_manzi.png
   team: true
   social:
@@ -41,7 +41,7 @@
   id: 5
   name: "황태관"
   surname: "(Ethan)"
-  title: "Technical Director"
+  title: "Engineering Director, Backend"
   thumbnailUrl: dev_ethan.png
   devTeam: true
   social:
@@ -102,7 +102,7 @@
   id: 11
   name: "이기림"
   surname: "(Limi)"
-  title: "UX Designer"
+  title: "Design Director, UX"
   thumbnailUrl: design_limi.png
   designTeam: true
   social:

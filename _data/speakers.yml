@@ -48,7 +48,7 @@
   id: 4
   name: "이민규(Manzi)"
   company: "SSUmunity"
-  title: "Business Operation Manager"
+  title: "Business Operations Manager"
   bio: "혁신적인 학교생활을 꿈꾸는 이민규입니다. 다양한 프로젝트 경험을 통해 성장해 혁신적인 학교생활을 하는것을 보여드리도록 하겠습니다!"
   thumbnailUrl: oper_manzi.png
   rockstar: true
@@ -60,7 +60,7 @@
   id: 5
   name: "황태관(Ethan)"
   company: "SSUmunity"
-  title: "Backend Engineer"
+  title: "Engineering Director, Backend"
   bio: "안녕하세요 성장형 캐릭터 황태관입니다"
   thumbnailUrl: dev_ethan.png
   rockstar: true
@@ -151,7 +151,7 @@
   id: 11
   name: "이기림(Limi)"
   company: "SSUmunity"
-  title: "UX Designer"
+  title: "Design Director, UX"
   bio: "안녕하세요 이기림입니다. UX디자이너로서, 학우 여러분들이 숭실대에서 최적의 경험을 할 수 있도록 노력하겠습니다. <br>잊지 못 할 경험, 함께 만들어가요."
   thumbnailUrl: design_limi.png
   rockstar: true
